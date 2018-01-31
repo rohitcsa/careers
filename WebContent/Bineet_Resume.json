@@ -1,0 +1,2903 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "BINEET KAUR CHOPRA",
+          "GivenName": "BINEET",
+          "MiddleName": "KAUR",
+          "FamilyName": "CHOPRA"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "PostalCode": "110085",
+              "Region": "IN-DL",
+              "Municipality": "Delhi",
+              "DeliveryAddress": {
+                "AddressLine": "Pocket A-1, Flat No. 20, Sector-5, Rohini"
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "+918861605898"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "bineetchopra@gmail.com"
+          }
+        ]
+      },
+      "ExecutiveSummary": "•  Dynamic & technically competent professional with domain expertise as a Functional\r\nConsultant/Business Analyst in the Risk Management, Investment Banking, Retail Banking, Retail\r\nLending, Retail e-Banking and Multi - Channel Solutioning domains.\r\n•  Academically brilliant with a Post Graduate Diploma in Management, specialization in Finance\r\nand Marketing. Currently spearheading JP Morgan as an Associate in the Investment Banking\r\ndomain.\r\n•  Adept at providing expertise in preparing functional and system requirement specific documents\r\nfor enhancing the product.\r\n•  Analytical, logical & detail-oriented mind, with a strong knowledge-base & an exceptional\r\ndiagnostic & problem-solving ability in congruence with superb communication.\r\n•  Good interpersonal & leadership traits coupled with proven abilities to analyse, multi-task &\r\nadapt, handle tasks under high-pressure environment.\r\n\r\n•   Prepared a project covering all the fundamental aspects relating to investment in mutual funds\r\n•   Built and strengthened relationships with distributors and helped to tackle the problems faced by\r\nthem\r\n•   Analyzed various funds and measured their risk by computing beta, Sharpe ratio and Treynor\r\nratio\r\n\r\nProjects:\r\n•  Presented a Seminar on Reverse Mortgage: An Option for Senior Citizens",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "JP Morgan",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Associate - Risk and Finance Technology",
+                "OrgName": {
+                  "OrganizationName": "JP Morgan"
+                },
+                "OrgInfo": {
+                  "PositionLocation": {
+                    "CountryCode": "IN",
+                    "Region": "KARNATAKA",
+                    "Municipality": "Bangalore"
+                  }
+                },
+                "Description": "(Regulatory Reporting using Axiom)\r\n\r\nJob Responsibilities\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring business requirement documents, functional requirement specification\r\ndocuments and system requirement specification documents\r\n•   Interaction with the business users, the technical team and the quality assurance team\r\n•   User Acceptance Testing\r\n\r\nProjects\r\n•   Internal Models Method for Credit Risk Measurement as per Basel III\r\n•   Internal Models Approach for Market Risk Measurement as per Basel III\r\n•   Shadow Banking\r\n•   Regulatory Reporting for Credit Risk, Market Risk and Liquidity Risk in Axiom as per\r\nBasel III\r\n•   Private Banking Customer Shortfall\r\n•   Private Banking Cash Collateral Netting\r\n•   EBA Pillar 3\r\n•   FINREP\r\n\r\n2.  Capco Technologies, Bangalore",
+                "StartDate": {
+                  "YearMonth": "2016-05"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Architecture",
+                    "Comments": "Information Technology describes 33% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SS",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "TS",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "JP Morgan",
+                    "sov:NormalizedTitle": "Associate Risk and Finance Technology",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Associate"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "JP Morgan"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Client - Morgan Stanley",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Project Manager - Investment Banking",
+                "OrgName": {
+                  "OrganizationName": "Client - Morgan Stanley"
+                },
+                "Description": "Securities Reference Data\r\n\r\nJob Responsibilities\r\n•   Project planning\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring business requirement documents, functional requirement specification\r\ndocuments and system requirement specification documents\r\n•   Interaction with the business users, the technical team and the quality assurance team\r\n•   User Acceptance Testing\r\n\r\nProjects\r\n•   Reconciliation between Securities Reference Database and Vendor Systems\r\n•   Straight Through Processing of Corporate Actions\r\n•   Enhancements to Securities Reference Database\r\n\r\n\r\nConsultant - Investment Banking - Derivatives\r\nJob Responsibilities\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring business requirement documents, functional requirement specification\r\ndocuments and system requirement specification documents\r\n•   Interaction with the business users, the technical team and the quality assurance team\r\n•   User Acceptance Testing\r\n•   Industry Testing with real counterparties/investment banks\r\n•   Mentoring and handholding new joinees\r\n\r\nProjects\r\n•   Equity Swaps on Markitwire\r\n(Markitwire is an electronic platform used for trade capture, legal confirmation and workflow management across the industry)\r\n•   T0 Swaps Renovation\r\n•   Intellimatch Reconciliation of Equity Swaps and Equity Derivatives\r\n•   Straight through processing of Corporate Actions\r\n\r\n\r\n3.  Encora Technologies, Malaysia",
+                "StartDate": {
+                  "YearMonth": "2014-07"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Project Management",
+                    "Comments": "Information Technology describes 40% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "BX",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SF",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Client Morgan Stanley",
+                    "sov:NormalizedTitle": "Project Manager Investment Banking",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Project Manager"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Client Morgan Stanley"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Client - CIMB Bank",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Senior Business Analyst - Corporate Lending",
+                "OrgName": {
+                  "OrganizationName": "Client - CIMB Bank"
+                },
+                "OrgInfo": {
+                  "PositionLocation": {
+                    "CountryCode": "IN",
+                    "Region": "KARNATAKA",
+                    "Municipality": "Bangalore"
+                  }
+                },
+                "Description": "Job Responsibilities\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring functional and system requirement specification documents\r\n•   Interaction with the business users\r\n\r\nProjects\r\n•   Straight Through Processing of Corporate Loan  Lifecycle (Origination, Servicing, Rollover,\r\nDelinquency Handling, Renewal, Cancellation) for CIMB Bank (Malaysia, Thailand,\r\nIndonesia, Singapore)\r\n\r\n4.  Societe Generale Global Solution Centre, Bangalore",
+                "StartDate": {
+                  "YearMonth": "2014-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2014-06"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Architecture",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "BP",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "TF",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Client CIMB Bank",
+                    "sov:NormalizedTitle": "Senior Business Analyst Corporate Lending",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Senior Business Analyst",
+                        "Business Analyst - Corporate Lending",
+                        "Business Analyst"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Client CIMB Bank"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Business Analyst",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "OrgInfo": {
+                  "PositionLocation": {
+                    "CountryCode": "IN",
+                    "Region": "KARNATAKA",
+                    "Municipality": "Bangalore"
+                  }
+                },
+                "Description": "Investment Banking - Reference Data\r\nJob Responsibilities\r\n•   Working on Agile technology in a Scrum environment\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring functional and system requirement specification documents\r\n•   Handling change requests\r\n•   Interaction with the clients and the technical team\r\n\r\nProjects\r\n•   Creation of Client Referential Data\r\na) Client Account Opening Workflow\r\nb) Client Modification Workflow\r\nc) Client Onboarding\r\nd) Legal & KYC Compliance\r\ne) Creation of Client Referential Data for Third Parties\r\nf) Creation of Elementary Clients and Legal Entities\r\ng) Legal & KYC Compliance\r\nh) Dodd Frank Act\r\ni) FATCA\r\nj) 15a6 rule\r\nk) SGAS\r\nl) E-Management of Operational Onboarding\r\n\r\n\r\n5.  ITC Infotech India Limited, Bangalore",
+                "StartDate": {
+                  "YearMonth": "2013-05"
+                },
+                "EndDate": {
+                  "YearMonth": "2014-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Architecture",
+                    "Comments": "Information Technology describes 57% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "TF",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedTitle": "Business Analyst"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Lead Business Analyst - Risk Management",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "OrgInfo": {
+                  "PositionLocation": {
+                    "CountryCode": "IN",
+                    "Region": "KARNATAKA",
+                    "Municipality": "Bangalore"
+                  }
+                },
+                "Description": "Job Responsibilities\r\n•   Working on Agile technology in a Scrum environment\r\n•   Worked onsite at client location in Denmark\r\n•   Market study, current system study, gap analysis\r\n•   Analysis of roadmap items, feasibility analysis and preparation of proof of concept (POC)\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring functional and system requirement specification documents\r\n•   Handling change requests\r\n•   Interaction with the clients and the technical team\r\n•   Handling internal supplier agreements with the data warehouse team\r\n•   Imparting domain related training and presentations to the technical team\r\n•   Training and handholding new team members\r\n•   Interviewing prospective candidates\r\n\r\n\r\nProjects\r\n•   Risk Management\r\na)  Basel Compliance\r\nb)  Credit risk - Standardized, Foundation IRB and Advanced IRB approaches\r\nc)  Probability of Default, Loss given default, Exposure at default and Maturity\r\nd)  Market risk - Standardized and Internal Models Approach\r\ne)  Operational risk - Basic Indicator, Standardized and Advanced Measurement\r\napproaches\r\nf)  Stress testing, backtesting\r\ng)  Automatic Limits (Pre-Approved Limits)\r\nh)  Shadow Limits\r\ni)  Portfolio Loan Concept\r\nj)  Facility Pricing Tool\r\nk)  Application Scoring\r\nl)  Behavioral Scoring\r\nm)  Credit Rating\r\nn)  Facility Pricing Tool\r\no)  Derivatives - Options, Futures, Forwards, Swaps, Credit Derivatives\r\n\r\n•   Retail Lending\r\na)  Interest Subsidy Loans\r\n\r\n•   Regulatory Compliance\r\na)  FATCA - Foreign Account Tax Compliance Act\r\n\r\n•   Multi-channel Solutioning\r\na)  Safe Deposit Box\r\nb)  Interactive Voice Response System\r\nc)  Net Budget (Personal Wealth Management Planner)\r\nd)  Teller System\r\ne)  Retail E-banking\r\n\r\n•   Training\r\na)  Underwent intensive training on Agile technology\r\n\r\n\r\n6.  Infosys Technologies Limited, Bangalore",
+                "StartDate": {
+                  "YearMonth": "2011-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2013-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Financial Planning & Analysis",
+                    "Comments": "Finance describes 19% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SX",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedTitle": "Lead Business Analyst Risk Management",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Lead Business Analyst"
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "Title": "Senior Associate Consultant - Finacle",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "(Basel Compliance, Retail Assets, Mortgages, Securitization)\r\n\r\n•  Deputed to keep track of various developments in the banking and financial sector.\r\n•  Accountable for interacting with clients and the technical team to incorporate various regulatory\r\nrequirements in Finacle, the banking product of Infosys.\r\n•  Spearheading efforts across production support activities and liaising with the technical team for customized\r\ndevelopments; responsible for enhancements within the product.\r\n•  Preparing functional and system requirement specifications for various clients.\r\n•  Responsible for authoring the retail banking newsletter, Retail Tale.\r\n•  Writing articles for the retail banking portal, Retail Bank Quest.\r\n•  Successfully completed functional and technical certifications in e-banking, Oracle, Unix and Retail\r\nConsumer Lending\r\n•  Delivered a presentation on Green IT.\r\n•  Entrusted with the task of keeping track of TCS as a competitor, in the core banking domain, SAP as a competitor, in the microfinance domain and Oracle as a competitor, in the Basel II domain.\r\nOn the Job Training:\r\n•  Underwent an intensive training in Finacle for one month\r\n•  Performed testing of fixed tickets, detected bugs and raised new tickets\r\n\r\nAuthored requirement specifications for the following enhancements in Finacle:\r\n\r\n•  Basel II data capture for making Finacle Basel compliant\r\n•  Credit risk - Standardized, Foundation IRB and Advanced IRB approaches\r\n•  Market risk - Standardized and Internal Models Approach\r\n•  VaR calculation - Historical, Variance - Covariance and Monte Carlo Simulation\r\n•  Operational risk - Basic Indicator, Standardized and Advanced Measurement approaches\r\n•  Stress testing, backtesting\r\n•  Reverse Mortgage Origination and Servicing\r\n•  Line of Credit (HELOC, PLOC, RELOC) Origination and Servicing for US and Canada markets\r\n•  Investor Reporting\r\n•  Escrow origination and servicing\r\n•  Rate Lock\r\n•  FASB 91\r\n•  Collateral revaluation and maintenance of collateral history\r\n•  Generation  of  a  quote/key  facts  illustration  from  the  Loan  Origination  System  and  the  Loan  Maintenance\r\nSystem\r\n•  Integration of Finanz Tools with the Loan Origination System in CRM\r\n•  Dormancy Status for Non-Financial Transactions\r\n•  Changing the behaviour of the menu option, HLACAM, which performs the amortization batch job\r\n•  Validation at the time of rephasement, keeping the EMI fixed and changing the tenor\r\n•  Carryover of charge demands\r\n•  Overflow carryover\r\n•  EMI plus interest on holiday period to be raised as a combined demand at the time of the first instalment\r\n•  Enabling  scheduled  and  unscheduled  loan  repayments  and  loan  disbursement  for  forward  contract\r\nutilization\r\n•  Accepting cheque for scheduled and unscheduled loan repayment and loan payoff\r\n•  Dropping of multiple disbursement parameter\r\n•  Securitization: Pool creation criteria based on geographic location of the mortgaged property\r\n•  Handling of minor's accounts\r\n•  Display of the portion of permitted annual overpayment used in a calendar year\r\n•  Analysis of cross-functional dependency of retail loans module on payment systems\r\n•  Calculation and display of Annual Percentage Rate (APR) as per CCA guideline for UK market\r\n•  Calculation and display of APR for loans having a subsidy amount\r\n•  Minimum balance check for automatic debits\r\n\r\nPROJECT\r\nPrice Waterhouse Coopers, New York - Onsite project for US market study, gap analysis, business\r\nrequirement gathering and developing functional requirement specifications\r\n\r\nAuthored the following requirement specifications for enhancements in Finacle:\r\n\r\n•  Mortgage (including Buydown) Origination and Servicing\r\n•  Investor Reporting\r\n•  Special Products- Adjustable Rate Mortgages (ARMs), Construction loans, Balloon loans\r\n•  Escrow Servicing for Mortgages and Liability accounts\r\n•  Impound Accounts, Buydowns and Buyups\r\n•  Liability (DDA accounts) Origination and Servicing\r\n•  Line Of Credit Origination (HELOC, PLOC, RELOC) and Servicing\r\n•  Personal Line of Credit Origination and Servicing\r\n•  Origination and Servicing of Boat Loans, Personal Loans and Auto Loans\r\n•  General Ledger\r\n•  Basel II Data Capture\r\n•  Minor Accounts\r\n\r\nWHITE PAPER\r\n•   Authored a white paper on \"Credit Ratings-Empty Rituals\"",
+                "StartDate": {
+                  "YearMonth": "2008-05"
+                },
+                "EndDate": {
+                  "YearMonth": "2011-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Compliance",
+                    "Comments": "Finance describes 26% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "BQ",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedTitle": "Senior Associate Consultant Finacle",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Senior Associate Consultant",
+                        "Associate Consultant - Finacle",
+                        "Associate Consultant"
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": {
+              "SchoolName": "IMD"
+            },
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": "KARNATAKA",
+              "Municipality": "Mysore"
+            },
+            "Degree": {
+              "@degreeType": "some post-graduate",
+              "DegreeName": "Post Graduate Diploma in Management",
+              "DegreeDate": {
+                "Year": "2008"
+              },
+              "DegreeMajor": {
+                "Name": [
+                  "Finance and Marketing"
+                ]
+              },
+              "DegreeMeasure": {
+                "EducationalMeasure": {
+                  "MeasureSystem": "GPA",
+                  "MeasureValue": {
+                    "StringValue": "3.25"
+                  },
+                  "LowestPossibleValue": {
+                    "StringValue": "0"
+                  },
+                  "HighestPossibleValue": {
+                    "StringValue": "4"
+                  }
+                }
+              },
+              "DatesOfAttendance": {
+                "StartDate": {
+                  "AnyDate": "notKnown"
+                },
+                "EndDate": {
+                  "Year": "2008"
+                }
+              },
+              "Comments": "Post Graduate Diploma in Management, Finance and Marketing - 2008\r\nSDM-IMD, Mysore, CGPA=3.25/4",
+              "UserArea": {
+                "sov:DegreeUserArea": {
+                  "sov:Id": "DEG-1",
+                  "sov:NormalizedGPA": "0.813",
+                  "sov:NormalizedDegreeName": "somepostgraduate",
+                  "sov:NormalizedDegreeType": "some post-graduate"
+                }
+              }
+            },
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "IMD"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "Degree": {
+              "@degreeType": "some post-graduate",
+              "DegreeName": "PGDM",
+              "DegreeDate": {
+                "Year": "2008"
+              },
+              "DegreeMajor": {
+                "Name": [
+                  "Batch"
+                ]
+              },
+              "DegreeMeasure": {
+                "EducationalMeasure": {
+                  "MeasureSystem": "GPA",
+                  "MeasureValue": {
+                    "StringValue": "3.25"
+                  },
+                  "LowestPossibleValue": {
+                    "StringValue": "0"
+                  },
+                  "HighestPossibleValue": {
+                    "StringValue": "4.0"
+                  }
+                }
+              },
+              "DatesOfAttendance": {
+                "StartDate": {
+                  "Year": "2006"
+                },
+                "EndDate": {
+                  "Year": "2008"
+                }
+              },
+              "Comments": "•  Stood amongst the top 5\" students (out of 120 students) of the PGDM Batch 2006-2008 by securing a CGPA of 3.25 on a scale of 4.0",
+              "UserArea": {
+                "sov:DegreeUserArea": {
+                  "sov:Id": "DEG-5",
+                  "sov:NormalizedGPA": "0.813",
+                  "sov:NormalizedDegreeName": "somepostgraduate",
+                  "sov:NormalizedDegreeType": "some post-graduate"
+                }
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": {
+              "SchoolName": "Guru Tegh Bahadur Institute of Technology"
+            },
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": "DELHI",
+              "Municipality": "New Delhi"
+            },
+            "Degree": {
+              "@degreeType": "bachelors",
+              "DegreeName": "Bachelor of Technology",
+              "DegreeDate": {
+                "Year": "2006"
+              },
+              "DegreeMajor": {
+                "Name": [
+                  "Electronics and Communication Engineering"
+                ]
+              },
+              "DegreeMeasure": {
+                "EducationalMeasure": {
+                  "MeasureSystem": "GPA",
+                  "MeasureValue": {
+                    "StringValue": "67.5"
+                  },
+                  "LowestPossibleValue": {
+                    "StringValue": "0"
+                  },
+                  "HighestPossibleValue": {
+                    "StringValue": "100"
+                  }
+                }
+              },
+              "DatesOfAttendance": {
+                "StartDate": {
+                  "AnyDate": "notKnown"
+                },
+                "EndDate": {
+                  "Year": "2006"
+                }
+              },
+              "Comments": "Bachelor of Technology, Electronics and Communication Engineering - 2006\r\nGuru Tegh Bahadur Institute of Technology, New Delhi, 67.5%",
+              "UserArea": {
+                "sov:DegreeUserArea": {
+                  "sov:Id": "DEG-2",
+                  "sov:NormalizedGPA": "0.675",
+                  "sov:NormalizedDegreeName": "bachelors",
+                  "sov:NormalizedDegreeType": "bachelors"
+                }
+              }
+            },
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Guru Tegh Bahadur Institute of Technology"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": {
+              "SchoolName": "Mata Jai Kaur Public School"
+            },
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": "DELHI",
+              "Municipality": "New Delhi"
+            },
+            "Degree": {
+              "DegreeDate": {
+                "Year": "2005"
+              },
+              "DegreeMajor": {
+                "Name": [
+                  "Mathematics Olympiads"
+                ]
+              },
+              "DegreeMeasure": {
+                "EducationalMeasure": {
+                  "MeasureSystem": "GPA",
+                  "MeasureValue": {
+                    "StringValue": "83"
+                  },
+                  "LowestPossibleValue": {
+                    "StringValue": "0"
+                  },
+                  "HighestPossibleValue": {
+                    "StringValue": "100"
+                  }
+                }
+              },
+              "DatesOfAttendance": {
+                "StartDate": {
+                  "Year": "2000"
+                },
+                "EndDate": {
+                  "Year": "2005"
+                }
+              },
+              "Comments": "10th, 2000\r\nMata Jai Kaur Public School, New Delhi, 83%\r\n\r\nScholastic Achievements\r\n•  Common Admission Test 2005 : 84.31% percentile\r\n•  National Level Science Talent Search Examination scholarship holder\r\n•  Topped All India School Scholarship examination\r\n•  Won prizes in many Mathematics Olympiads",
+              "UserArea": {
+                "sov:DegreeUserArea": {
+                  "sov:Id": "DEG-4",
+                  "sov:NormalizedGPA": "0.830"
+                }
+              }
+            },
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Mata Jai Kaur Public School"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": {
+              "SchoolName": "D.L.D.A.V. Model School"
+            },
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": "DELHI",
+              "Municipality": "New Delhi"
+            },
+            "Degree": {
+              "DegreeDate": {
+                "Year": "2002"
+              },
+              "DegreeMeasure": {
+                "EducationalMeasure": {
+                  "MeasureSystem": "GPA",
+                  "MeasureValue": {
+                    "StringValue": "68.6"
+                  },
+                  "LowestPossibleValue": {
+                    "StringValue": "0"
+                  },
+                  "HighestPossibleValue": {
+                    "StringValue": "100"
+                  }
+                }
+              },
+              "DatesOfAttendance": {
+                "StartDate": {
+                  "AnyDate": "notKnown"
+                },
+                "EndDate": {
+                  "Year": "2002"
+                }
+              },
+              "Comments": "12th, 2002\r\nD.L.D.A.V. Model School, New Delhi, 68.6%",
+              "UserArea": {
+                "sov:DegreeUserArea": {
+                  "sov:Id": "DEG-3",
+                  "sov:NormalizedGPA": "0.686"
+                }
+              }
+            },
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "D L D A V Model School"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "FRM (Financial Risk Manager) Level I conducted by GARP",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "NCFM - Financial Markets - Beginner's Module",
+            "Id": "2",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "ITIL      Foundation Exam",
+            "Description": "certification; found in CERTIFICATIONS",
+            "EffectiveDate": {
+              "FirstIssuedDate": {
+                "Year": "2011"
+              }
+            }
+          }
+        ]
+      },
+      "PublicationHistory": {
+        "Book": [
+          {
+            "Title": "Presented a research paper on India's  of Management\r\n•  Prepared a dissertation on Lessons from Sub-Prime Meltdown to CRISIL\r\n•  2007 Contest",
+            "PublisherName": "Growth Story in Narsee Monjee Institute"
+          },
+          {
+            "Title": "Reliance Mutual Fund\r\nDuration",
+            "PublicationDate": {
+              "Year": "2007"
+            },
+            "PublisherName": "Quantitative Analysis and Distribution Channel Management"
+          }
+        ],
+        "OtherPublication": [
+          {
+            "Title": "Internship\r\n"
+          }
+        ]
+      },
+      "SpeakingEventsHistory": {
+        "SpeakingEvent": [
+          {
+            "EventName": "",
+            "EventType": "conference",
+            "Description": "Imparting domain related training and presentations to the technical team"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "SKILLS\r\n\r\nDomains\tInvestment Banking, Risk Management, Retail &\r\nCorporate Lending\r\nBusiness Analysis Skills\tRequirement gathering, gap analysis, business\r\nrequirement document, functional requirement\r\nspecification, As Is and To Be process modelling\r\nProgramming Languages\tC, C++, JAVA, Mainframe, VHDL, HTML\r\nProject Tools\tORCAD, AUTOCAD, SPSS, Microsoft Visio, MS Project, Pencil,\r\nRational Team Concert, HP Quality Center/ALM\r\nRegulatory Reporting Tools\tAxiom\r\nPackages\tMS Office\r\nOperating Systems\tWindows, Unix, DOS\r\nFile Version Maintenance Tools\tVisual Safe Source (VSS), Rational Requisite Pro"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Awarded \"Gem of the Quarter Award\" for excellent contribution in Line of Credit enhancement"
+          },
+          {
+            "Description": "Awarded \"On the Spot Award\" for contribution in Basel implementation"
+          },
+          {
+            "Description": "Scholastic Achievements"
+          },
+          {
+            "Description": "National Level Science Talent Search Examination scholarship holder"
+          },
+          {
+            "Description": "Topped All India School Scholarship examination"
+          }
+        ]
+      },
+      "Associations": {
+        "Association": [
+          {
+            "Name": "Was the  ... winning team in the Britannia Heritage Quiz",
+            "Role": {
+              "Name": "member"
+            }
+          }
+        ]
+      },
+      "RevisionDate": "2018-01-11"
+    },
+    "NonXMLResume": {
+      "TextResume": "BINEET KAUR CHOPRA\r\nContact: +918861605898 (India) ;  Email: bineetchopra@gmail.com\r\n\r\n\r\nPROJECT MANAGER/SENIOR FUNCTIONAL CONSULTANT/\r\nSENIOR BUSINESS ANALYST - BANKING\r\nSeeking career enhancements across Risk Management/Retail & Corporate Banking/IT\r\n/Investment Banking/Equity Research/Treasury industry at senior level positions\r\n\r\nPROFILE\r\n•  Dynamic & technically competent professional with domain expertise as a Functional\r\nConsultant/Business Analyst in the Risk Management, Investment Banking, Retail Banking, Retail\r\nLending, Retail e-Banking and Multi - Channel Solutioning domains.\r\n•  Academically brilliant with a Post Graduate Diploma in Management, specialization in Finance\r\nand Marketing. Currently spearheading JP Morgan as an Associate in the Investment Banking\r\ndomain.\r\n•  Adept at providing expertise in preparing functional and system requirement specific documents\r\nfor enhancing the product.\r\n•  Analytical, logical & detail-oriented mind, with a strong knowledge-base & an exceptional\r\ndiagnostic & problem-solving ability in congruence with superb communication.\r\n•  Good interpersonal & leadership traits coupled with proven abilities to analyse, multi-task &\r\nadapt, handle tasks under high-pressure environment.\r\n\r\nSKILLS\r\n\r\nDomains\tInvestment Banking, Risk Management, Retail &\r\nCorporate Lending\r\nBusiness Analysis Skills\tRequirement gathering, gap analysis, business\r\nrequirement document, functional requirement\r\nspecification, As Is and To Be process modelling\r\nProgramming Languages\tC, C++, JAVA, Mainframe, VHDL, HTML\r\nProject Tools\tORCAD, AUTOCAD, SPSS, Microsoft Visio, MS Project, Pencil,\r\nRational Team Concert, HP Quality Center/ALM\r\nRegulatory Reporting Tools\tAxiom\r\nPackages\tMS Office\r\nOperating Systems\tWindows, Unix, DOS\r\nFile Version Maintenance Tools\tVisual Safe Source (VSS), Rational Requisite Pro\r\n\r\nCERTIFICATIONS\r\n\r\nFRM (Financial Risk Manager) Level I conducted by GARP\r\nNCFM - Financial Markets - Beginner's Module\r\nITIL 2011 Foundation Exam\r\n\r\n\r\nPROFESSIONAL EXPERIENCE\r\n\r\n\r\n1.  JP Morgan, Bangalore\r\n\r\nFrom May 2016 till date\r\n\r\nAssociate - Risk and Finance Technology (Regulatory Reporting using Axiom)\r\n\r\nJob Responsibilities\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring business requirement documents, functional requirement specification\r\ndocuments and system requirement specification documents\r\n•   Interaction with the business users, the technical team and the quality assurance team\r\n•   User Acceptance Testing\r\n\r\nProjects\r\n•   Internal Models Method for Credit Risk Measurement as per Basel III\r\n•   Internal Models Approach for Market Risk Measurement as per Basel III\r\n•   Shadow Banking\r\n•   Regulatory Reporting for Credit Risk, Market Risk and Liquidity Risk in Axiom as per\r\nBasel III\r\n•   Private Banking Customer Shortfall\r\n•   Private Banking Cash Collateral Netting\r\n•   EBA Pillar 3\r\n•   FINREP\r\n\r\n2.  Capco Technologies, Bangalore\r\n\r\nClient - Morgan Stanley\r\n\r\nFrom July 2014 till May, 2016\r\n\r\nProject Manager - Investment Banking - Securities Reference Data\r\n\r\nJob Responsibilities\r\n•   Project planning\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring business requirement documents, functional requirement specification\r\ndocuments and system requirement specification documents\r\n•   Interaction with the business users, the technical team and the quality assurance team\r\n•   User Acceptance Testing\r\n\r\nProjects\r\n\r\n•   Reconciliation between Securities Reference Database and Vendor Systems\r\n•   Straight Through Processing of Corporate Actions\r\n•   Enhancements to Securities Reference Database\r\n\r\n\r\nConsultant - Investment Banking - Derivatives\r\n\r\nJob Responsibilities\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring business requirement documents, functional requirement specification\r\ndocuments and system requirement specification documents\r\n•   Interaction with the business users, the technical team and the quality assurance team\r\n•   User Acceptance Testing\r\n•   Industry Testing with real counterparties/investment banks\r\n•   Mentoring and handholding new joinees\r\n\r\nProjects\r\n•   Equity Swaps on Markitwire\r\n(Markitwire is an electronic platform used for trade capture, legal confirmation and\r\nworkflow management across the industry)\r\n•   T0 Swaps Renovation\r\n•   Intellimatch Reconciliation of Equity Swaps and Equity Derivatives\r\n•   Straight through processing of Corporate Actions\r\n\r\n\r\n3.  Encora Technologies, Malaysia\r\n\r\nClient - CIMB Bank\r\n\r\nFrom April 2014 till June 2014\r\n\r\nSenior Business Analyst - Corporate Lending\r\n\r\nJob Responsibilities\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring functional and system requirement specification documents\r\n•   Interaction with the business users\r\n\r\nProjects\r\n•   Straight Through Processing of Corporate Loan  Lifecycle (Origination, Servicing, Rollover,\r\nDelinquency Handling, Renewal, Cancellation) for CIMB Bank (Malaysia, Thailand,\r\nIndonesia, Singapore)\r\n\r\n4.  Societe Generale Global Solution Centre, Bangalore\r\n\r\nFrom May 2013 till April 2014\r\n\r\nBusiness Analyst - Investment Banking - Reference Data\r\n\r\nJob Responsibilities\r\n•   Working on Agile technology in a Scrum environment\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring functional and system requirement specification documents\r\n•   Handling change requests\r\n•   Interaction with the clients and the technical team\r\n\r\nProjects\r\n\r\n•   Creation of Client Referential Data\r\na) Client Account Opening Workflow\r\nb) Client Modification Workflow\r\nc) Client Onboarding\r\nd) Legal & KYC Compliance\r\ne) Creation of Client Referential Data for Third Parties\r\nf) Creation of Elementary Clients and Legal Entities\r\ng) Legal & KYC Compliance\r\nh) Dodd Frank Act\r\ni) FATCA\r\nj) 15a6 rule\r\nk) SGAS\r\nl) E-Management of Operational Onboarding\r\n\r\n\r\n5.  ITC Infotech India Limited, Bangalore\r\n\r\nFrom April 2011 till April 2013\r\n\r\nLead Business Analyst - Risk Management\r\n\r\nJob Responsibilities\r\n•   Working on Agile technology in a Scrum environment\r\n•   Worked onsite at client location in Denmark\r\n•   Market study, current system study, gap analysis\r\n•   Analysis of roadmap items, feasibility analysis and preparation of proof of concept (POC)\r\n•   Requirement gathering and requirement analysis\r\n•   Authoring functional and system requirement specification documents\r\n•   Handling change requests\r\n•   Interaction with the clients and the technical team\r\n•   Handling internal supplier agreements with the data warehouse team\r\n•   Imparting domain related training and presentations to the technical team\r\n•   Training and handholding new team members\r\n•   Interviewing prospective candidates\r\n\r\n\r\nProjects\r\n\r\n•   Risk Management\r\na)  Basel Compliance\r\nb)  Credit risk - Standardized, Foundation IRB and Advanced IRB approaches\r\nc)  Probability of Default, Loss given default, Exposure at default and Maturity\r\nd)  Market risk - Standardized and Internal Models Approach\r\ne)  Operational risk - Basic Indicator, Standardized and Advanced Measurement\r\napproaches\r\nf)  Stress testing, backtesting\r\ng)  Automatic Limits (Pre-Approved Limits)\r\nh)  Shadow Limits\r\ni)  Portfolio Loan Concept\r\nj)  Facility Pricing Tool\r\nk)  Application Scoring\r\nl)  Behavioral Scoring\r\nm)  Credit Rating\r\nn)  Facility Pricing Tool\r\no)  Derivatives - Options, Futures, Forwards, Swaps, Credit Derivatives\r\n\r\n•   Retail Lending\r\na)  Interest Subsidy Loans\r\n\r\n•   Regulatory Compliance\r\na)  FATCA - Foreign Account Tax Compliance Act\r\n\r\n•   Multi-channel Solutioning\r\na)  Safe Deposit Box\r\nb)  Interactive Voice Response System\r\nc)  Net Budget (Personal Wealth Management Planner)\r\nd)  Teller System\r\ne)  Retail E-banking\r\n\r\n•   Training\r\na)  Underwent intensive training on Agile technology\r\n\r\n\r\n6.  Infosys Technologies Limited, Bangalore\r\n\r\nFrom May 2008 till April 2011\r\n\r\nSenior Associate Consultant - Finacle (Basel Compliance, Retail Assets, Mortgages, Securitization)\r\n\r\n•  Deputed to keep track of various developments in the banking and financial sector.\r\n•  Accountable for interacting with clients and the technical team to incorporate various regulatory\r\nrequirements in Finacle, the banking product of Infosys.\r\n•  Spearheading efforts across production support activities and liaising with the technical team for customized\r\ndevelopments; responsible for enhancements within the product.\r\n•  Preparing functional and system requirement specifications for various clients.\r\n•  Responsible for authoring the retail banking newsletter, Retail Tale.\r\n•  Writing articles for the retail banking portal, Retail Bank Quest.\r\n•  Successfully completed functional and technical certifications in e-banking, Oracle, Unix and Retail\r\nConsumer Lending\r\n•  Delivered a presentation on Green IT.\r\n•  Entrusted with the task of keeping track of TCS as a competitor, in the core banking domain, SAP as a\r\ncompetitor, in the microfinance domain and Oracle as a competitor, in the Basel II domain.\r\nOn the Job Training:\r\n•  Underwent an intensive training in Finacle for one month\r\n•  Performed testing of fixed tickets, detected bugs and raised new tickets\r\n\r\nAuthored requirement specifications for the following enhancements in Finacle:\r\n\r\n•  Basel II data capture for making Finacle Basel compliant\r\n•  Credit risk - Standardized, Foundation IRB and Advanced IRB approaches\r\n•  Market risk - Standardized and Internal Models Approach\r\n•  VaR calculation - Historical, Variance - Covariance and Monte Carlo Simulation\r\n•  Operational risk - Basic Indicator, Standardized and Advanced Measurement approaches\r\n•  Stress testing, backtesting\r\n•  Reverse Mortgage Origination and Servicing\r\n•  Line of Credit (HELOC, PLOC, RELOC) Origination and Servicing for US and Canada markets\r\n•  Investor Reporting\r\n•  Escrow origination and servicing\r\n•  Rate Lock\r\n•  FASB 91\r\n•  Collateral revaluation and maintenance of collateral history\r\n•  Generation  of  a  quote/key  facts  illustration  from  the  Loan  Origination  System  and  the  Loan  Maintenance\r\nSystem\r\n•  Integration of Finanz Tools with the Loan Origination System in CRM\r\n•  Dormancy Status for Non-Financial Transactions\r\n•  Changing the behaviour of the menu option, HLACAM, which performs the amortization batch job\r\n•  Validation at the time of rephasement, keeping the EMI fixed and changing the tenor\r\n•  Carryover of charge demands\r\n•  Overflow carryover\r\n•  EMI plus interest on holiday period to be raised as a combined demand at the time of the first instalment\r\n•  Enabling  scheduled  and  unscheduled  loan  repayments  and  loan  disbursement  for  forward  contract\r\nutilization\r\n•  Accepting cheque for scheduled and unscheduled loan repayment and loan payoff\r\n•  Dropping of multiple disbursement parameter\r\n•  Securitization: Pool creation criteria based on geographic location of the mortgaged property\r\n•  Handling of minor's accounts\r\n•  Display of the portion of permitted annual overpayment used in a calendar year\r\n•  Analysis of cross-functional dependency of retail loans module on payment systems\r\n•  Calculation and display of Annual Percentage Rate (APR) as per CCA guideline for UK market\r\n•  Calculation and display of APR for loans having a subsidy amount\r\n•  Minimum balance check for automatic debits\r\n\r\nPROJECT\r\n\r\nPrice Waterhouse Coopers, New York - Onsite project for US market study, gap analysis, business\r\nrequirement gathering and developing functional requirement specifications\r\n\r\nAuthored the following requirement specifications for enhancements in Finacle:\r\n\r\n•  Mortgage (including Buydown) Origination and Servicing\r\n•  Investor Reporting\r\n•  Special Products- Adjustable Rate Mortgages (ARMs), Construction loans, Balloon loans\r\n•  Escrow Servicing for Mortgages and Liability accounts\r\n•  Impound Accounts, Buydowns and Buyups\r\n•  Liability (DDA accounts) Origination and Servicing\r\n•  Line Of Credit Origination (HELOC, PLOC, RELOC) and Servicing\r\n•  Personal Line of Credit Origination and Servicing\r\n•  Origination and Servicing of Boat Loans, Personal Loans and Auto Loans\r\n•  General Ledger\r\n•  Basel II Data Capture\r\n•  Minor Accounts\r\n\r\nWHITE PAPER\r\n\r\n•   Authored a white paper on \"Credit Ratings-Empty Rituals\"\r\n\r\nPROFESSIONAL ACHIEVEMENTS\r\n•   Awarded \"Gem of the Quarter Award\" for excellent contribution in Line of Credit enhancement\r\n•   Awarded \"On the Spot Award\" for contribution in Basel implementation\r\n\r\n\r\nEDUCATIONAL AND PROFESSIONAL QUALIFICATIONS\r\n\r\nPost Graduate Diploma in Management, Finance and Marketing - 2008\r\nSDM-IMD, Mysore, CGPA=3.25/4\r\n\r\nBachelor of Technology, Electronics and Communication Engineering - 2006\r\nGuru Tegh Bahadur Institute of Technology, New Delhi, 67.5%\r\n\r\n12th, 2002\r\nD.L.D.A.V. Model School, New Delhi, 68.6%\r\n\r\n10th, 2000\r\nMata Jai Kaur Public School, New Delhi, 83%\r\n\r\nScholastic Achievements\r\n•  Common Admission Test 2005: 84.31% percentile\r\n•  National Level Science Talent Search Examination scholarship holder\r\n•  Topped All India School Scholarship examination\r\n•  Won prizes in many Mathematics Olympiads\r\n•  Stood amongst the top 5\" students (out of 120 students) of the PGDM Batch 2006-2008 by securing a CGPA of\r\n3.25 on a scale of 4.0\r\n\r\nPapers Presented:\r\n•  Presented a research paper on India's Growth Story in Narsee Monjee Institute of Management\r\n•  Prepared a dissertation on Lessons from Sub-Prime Meltdown to CRISIL\r\n•  Participated in Cognizant Smart Business Plan 2007 Contest\r\n\r\nInternship\r\n\r\nOrganisation: Reliance Mutual Fund\r\nDuration: April-May 2007\r\nAim: Quantitative Analysis and Distribution Channel Management of Mutual Funds\r\nSynopsis:\r\n•   Prepared a project covering all the fundamental aspects relating to investment in mutual funds\r\n•   Built and strengthened relationships with distributors and helped to tackle the problems faced by\r\nthem\r\n•   Analyzed various funds and measured their risk by computing beta, Sharpe ratio and Treynor\r\nratio\r\n\r\nProjects:\r\n•  Presented a Seminar on Reverse Mortgage: An Option for Senior Citizens\r\n\r\n\r\nEXTRA CURRICULAR ACTIVITIES\r\n\r\n•  Was a part of the hospitality team in Pratigam '06 and '07, the Alumni Meet held at SDM-IMD,\r\nMysore.\r\n•  Actively contributed to the success of NAISSANCE '07 and '08, the management festival held at\r\nSDM-IMD, Mysore.\r\n•  Was the member of the winning team in the Britannia Heritage Quiz\r\n•  Participated in TCS Smart Manager Case Contest\r\n•  Took part in 4D Rule, the advertising event at Abhyudaya'08, IFMR.\r\n•  Was the student editor of the school magazine - Jaikaurites\r\n\r\nPermanent Address: Pocket A-1, Flat No. 20, Sector-5, Rohini, Delhi - 110085\r\nReferences: Available on Request"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "BINEET KAUR CHOPRA's experience appears to be somewhat concentrated in Information Technology (mostly Architecture), and slightly concentrated in Finance (mostly Compliance). BINEET KAUR CHOPRA has 10 years of work experience, with several years tenure in management, including a low-level position.",
+          "sov:MonthsOfWorkExperience": "116",
+          "sov:AverageMonthsPerEmployer": "19",
+          "sov:FulltimeDirectHirePredictiveIndex": "33",
+          "sov:MonthsOfManagementExperience": "47",
+          "sov:HighestManagementScore": "25",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": "Starting on 7/1/2014, the candidate held the following low-level management position for 22 months:\r\n\tTitle: Project Manager - Investment Banking for Client - Morgan Stanley\r\nStarting on 4/1/2011, the candidate held the following low-level management position for 2 years and 1 months:\r\n\tTitle: Lead Business Analyst - Risk Management",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "38",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "27",
+                        "@percentOfParentTaxonomy": "71",
+                        "sov:Skill": [
+                          {
+                            "@name": "RATIONAL",
+                            "@id": "025096",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "REQUIREMENT GATHERING",
+                            "@id": "006830",
+                            "@existsInText": "true",
+                            "@totalMonths": "116",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1; POS-2; POS-3; POS-4; POS-5; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "024469",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MS PROJECT",
+                            "@id": "022952",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "REPORTING TOOLS",
+                            "@id": "006823",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "REQUIREMENT ANALYSIS",
+                            "@id": "022962",
+                            "@existsInText": "true",
+                            "@totalMonths": "81",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-2; POS-3; POS-4; POS-5"
+                          },
+                          {
+                            "@name": "VISIO",
+                            "@id": "022692",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "GAP ANALYSIS",
+                            "@id": "018087",
+                            "@existsInText": "true",
+                            "@totalMonths": "60",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "PROJECT MANAGER",
+                            "@id": "022909",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "PROJECT PLANNING",
+                            "@id": "005820",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "REQUISITE PRO",
+                            "@id": "006838",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "VSS",
+                            "@id": "010741",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Workflow and Imaging",
+                        "@id": "342",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "WORKFLOW",
+                            "@id": "024213",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-4"
+                          },
+                          {
+                            "@name": "WORKFLOW MANAGEMENT",
+                            "@id": "011362",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "REFERENCE DATA",
+                            "@id": "5531053",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASES",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "22",
+                            "@childrenLastUsed": "2016-05-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "22",
+                                "@lastUsed": "2016-05-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CRM",
+                            "@id": "014101",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "SAP",
+                            "@id": "007436",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA WAREHOUSE",
+                            "@id": "022439",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "UNIX",
+                            "@id": "5551207",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "UNIX",
+                            "@id": "01026309",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "SDM",
+                            "@id": "007578",
+                            "@existsInText": "true",
+                            "@lastUsed": "2008-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ITIL",
+                            "@id": "020238",
+                            "@existsInText": "true",
+                            "@lastUsed": "2011-01-01",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ITIL",
+                            "@id": "3490036",
+                            "@existsInText": "true",
+                            "@lastUsed": "2011-01-01",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Privacy and Data Security",
+                        "@id": "556",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ITIL",
+                            "@id": "5551260",
+                            "@existsInText": "true",
+                            "@lastUsed": "2011-01-01",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mainframe",
+                        "@id": "197",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINFRAME",
+                            "@id": "025745",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MS OFFICE",
+                            "@id": "022137",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT PROJECT",
+                            "@id": "5540950",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS PROJECT",
+                                "@id": "554095002",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "14",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Compliance",
+                        "@id": "245",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "DERIVATIVES",
+                            "@id": "024287",
+                            "@existsInText": "true",
+                            "@totalMonths": "47",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-5"
+                          },
+                          {
+                            "@name": "DISBURSEMENT",
+                            "@id": "015486",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "FASB",
+                            "@id": "026743",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "LENDING",
+                            "@id": "022495",
+                            "@existsInText": "true",
+                            "@totalMonths": "63",
+                            "@lastUsed": "2014-06-30",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3; POS-5; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "DDA",
+                            "@id": "015105",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "FINANCE",
+                            "@id": "023147",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in EDUCATION; SUMMARY; WORK HISTORY; DEG-1; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUDGET",
+                            "@id": "022892",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "MONTE CARLO",
+                            "@id": "026523",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "022800",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "080204",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "25",
+                            "@childrenLastUsed": "2013-04-30",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RISK MANAGEMENT",
+                                "@id": "007100",
+                                "@existsInText": "true",
+                                "@totalMonths": "25",
+                                "@lastUsed": "2013-04-30",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mortgage",
+                        "@id": "233",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "ESCROW",
+                            "@id": "023593",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "LOANS",
+                            "@id": "080236",
+                            "@existsInText": "true",
+                            "@totalMonths": "60",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5; POS-6",
+                            "@childrenTotalMonths": "35",
+                            "@childrenLastUsed": "2011-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MORTGAGE",
+                                "@id": "002722",
+                                "@existsInText": "true",
+                                "@totalMonths": "35",
+                                "@lastUsed": "2011-04-01",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-6"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SPSS",
+                            "@id": "027122",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Lending",
+                        "@id": "234",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "080208",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2; POS-4"
+                          },
+                          {
+                            "@name": "LOANS",
+                            "@id": "080217",
+                            "@existsInText": "true",
+                            "@totalMonths": "60",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Securities",
+                        "@id": "236",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL MARKETS",
+                            "@id": "017466",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "080195",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2; POS-4"
+                          },
+                          {
+                            "@name": "SECURITIZATION",
+                            "@id": "007675",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Investor Relations",
+                        "@id": "704",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "7000029",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "7000021",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "LOAN ORIGINATION",
+                            "@id": "023536",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "PRICING",
+                            "@id": "022325",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Broker",
+                        "@id": "244",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "SECURITIES",
+                            "@id": "023212",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Credit and Underwriting",
+                        "@id": "240",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "RETAIL BANKING",
+                            "@id": "026150",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Admin and Customer Service",
+                        "@id": "242",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "GENERAL LEDGER",
+                            "@id": "022405",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "012194",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Equities",
+                        "@id": "238",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MUTUAL FUNDS",
+                            "@id": "003231",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Banking and Related",
+                    "@id": "81",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Credit",
+                        "@id": "121",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "61",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "014614",
+                            "@existsInText": "true",
+                            "@totalMonths": "80",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "LOANS",
+                            "@id": "022185",
+                            "@existsInText": "true",
+                            "@totalMonths": "60",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Lending",
+                        "@id": "122",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "34",
+                        "sov:Skill": [
+                          {
+                            "@name": "LENDING",
+                            "@id": "020717",
+                            "@existsInText": "true",
+                            "@totalMonths": "63",
+                            "@lastUsed": "2014-06-30",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "LOAN ORIGINATION",
+                            "@id": "020862",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Retail",
+                        "@id": "280",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "RETAIL BANKING",
+                            "@id": "026151",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Loan Operations",
+                        "@id": "123",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ESCROW",
+                            "@id": "023594",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Accounts Receivable",
+                        "@id": "940",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "71",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022226",
+                            "@existsInText": "true",
+                            "@totalMonths": "80",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-5; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Reporting",
+                        "@id": "962",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUDGET",
+                            "@id": "022891",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "INVESTOR REPORTING",
+                            "@id": "020118",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "REGULATORY REPORTING",
+                            "@id": "006709",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Tax",
+                        "@id": "255",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "TAX COMPLIANCE",
+                            "@id": "023858",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "256",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEALTH MANAGEMENT",
+                            "@id": "010971",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounts Payable",
+                        "@id": "933",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "DISBURSEMENT",
+                            "@id": "015485",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "CPA",
+                        "@id": "950",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "FASB",
+                            "@id": "026742",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Bookkeeping",
+                        "@id": "944",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "GENERAL LEDGER",
+                            "@id": "022404",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management",
+                        "@id": "960",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "080997",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Reconciliations",
+                        "@id": "257",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "081000",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "88",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022227",
+                            "@existsInText": "true",
+                            "@totalMonths": "80",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "006624",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRADING",
+                            "@id": "022750",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "25",
+                            "@childrenLastUsed": "2013-04-30",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RISK MANAGEMENT",
+                                "@id": "007099",
+                                "@existsInText": "true",
+                                "@totalMonths": "25",
+                                "@lastUsed": "2013-04-30",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Bookkeeping, Office Management",
+                    "@id": "89",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookeeping Tasks",
+                        "@id": "533",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUDGET",
+                            "@id": "012120",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022229",
+                            "@existsInText": "true",
+                            "@totalMonths": "80",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "GENERAL LEDGER",
+                            "@id": "022406",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "022801",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "49",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "48",
+                        "sov:Skill": [
+                          {
+                            "@name": "LOAN ORIGINATION",
+                            "@id": "020863",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "RETAIL",
+                            "@id": "030018",
+                            "@existsInText": "true",
+                            "@totalMonths": "60",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-5; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Account Management",
+                        "@id": "104",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK MANAGEMENT",
+                            "@id": "007098",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "STRESS TESTING",
+                            "@id": "009472",
+                            "@existsInText": "true",
+                            "@totalMonths": "60",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "USER ACCEPTANCE",
+                            "@id": "023992",
+                            "@existsInText": "true",
+                            "@totalMonths": "42",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-2",
+                            "@childrenTotalMonths": "42",
+                            "@childrenLastUsed": "2018-01-11",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ACCEPTANCE TESTING",
+                                "@id": "003784",
+                                "@existsInText": "true",
+                                "@totalMonths": "42",
+                                "@lastUsed": "2018-01-11",
+                                "@whereFound": "Found in WORK HISTORY; POS-1; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Software",
+                        "@id": "931",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "34",
+                        "sov:Skill": [
+                          {
+                            "@name": "GAP ANALYSIS",
+                            "@id": "018086",
+                            "@existsInText": "true",
+                            "@totalMonths": "60",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-5; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "941",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUALITY ASSURANCE",
+                            "@id": "022250",
+                            "@existsInText": "true",
+                            "@totalMonths": "42",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Channel Management",
+                        "@id": "226",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "98",
+                        "sov:Skill": [
+                          {
+                            "@name": "RETAIL MARKETING",
+                            "@id": "1400215",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "60",
+                            "@childrenLastUsed": "2013-04-30",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RETAIL",
+                                "@id": "1400216",
+                                "@existsInText": "true",
+                                "@totalMonths": "60",
+                                "@lastUsed": "2013-04-30",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-5; POS-6"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Market Research",
+                        "@id": "223",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "SPSS",
+                            "@id": "027121",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Computer Related",
+                        "@id": "115",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "59",
+                        "sov:Skill": [
+                          {
+                            "@name": "USER ACCEPTANCE",
+                            "@id": "023991",
+                            "@existsInText": "true",
+                            "@totalMonths": "42",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-2",
+                            "@childrenTotalMonths": "42",
+                            "@childrenLastUsed": "2018-01-11",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "USER ACCEPTANCE TESTING",
+                                "@id": "010320",
+                                "@existsInText": "true",
+                                "@totalMonths": "42",
+                                "@lastUsed": "2018-01-11",
+                                "@whereFound": "Found in WORK HISTORY; POS-1; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Messages and Contact",
+                        "@id": "112",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTERVIEWING",
+                            "@id": "026320",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Closing and Processing",
+                        "@id": "114",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "ESCROW",
+                            "@id": "023592",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Knowledge and Learning Management",
+                    "@id": "92",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Knowledge and Learning Management",
+                        "@id": "903",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MENTORING",
+                            "@id": "200051",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "TRAINING",
+                            "@id": "200064",
+                            "@existsInText": "true",
+                            "@totalMonths": "60",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Legal",
+                    "@id": "12",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Litigation",
+                        "@id": "400",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "78",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLIENTS",
+                            "@id": "200081",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2014-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "LIABILITY",
+                            "@id": "4000007",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "SECURITIES",
+                            "@id": "200084",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Corporate",
+                        "@id": "727",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "SECURITIES",
+                            "@id": "7270004",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "34",
+                        "sov:Skill": [
+                          {
+                            "@name": "FEASIBILITY",
+                            "@id": "026574",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "RF",
+                        "@id": "268",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "23",
+                        "sov:Skill": [
+                          {
+                            "@name": "EMI",
+                            "@id": "016209",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Circuits",
+                        "@id": "266",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "18",
+                        "sov:Skill": [
+                          {
+                            "@name": "CCA",
+                            "@id": "012722",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "VHDL",
+                            "@id": "026437",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Telecom",
+                        "@id": "146",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMMUNICATION ENGINEERING",
+                            "@id": "013973",
+                            "@existsInText": "true",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Optical",
+                        "@id": "141",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "CCA",
+                            "@id": "012721",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Recruitment & Staffing",
+                        "@id": "190",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "35",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTERVIEWING",
+                            "@id": "026321",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Talent Management",
+                        "@id": "584",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "35",
+                        "sov:Skill": [
+                          {
+                            "@name": "ONBOARDING",
+                            "@id": "9000284",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2014-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Talent Sourcing",
+                        "@id": "583",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "23",
+                        "sov:Skill": [
+                          {
+                            "@name": "CUSTOMER RELATIONSHIP MANAGEMENT",
+                            "@id": "9000267",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "35",
+                            "@childrenLastUsed": "2011-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CRM",
+                                "@id": "9000268",
+                                "@existsInText": "true",
+                                "@totalMonths": "35",
+                                "@lastUsed": "2011-04-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-6"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "HR Analytics",
+                        "@id": "577",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "SPSS",
+                            "@id": "9000110",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Environmental",
+                    "@id": "6",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Testing, Assessments, and Monitoring",
+                        "@id": "328",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "FEASIBILITY",
+                            "@id": "026575",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "GEM",
+                            "@id": "018233",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTEGRATOR",
+                            "@id": "5570146",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "35",
+                            "@childrenLastUsed": "2011-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTEGRATION",
+                                "@id": "5570147",
+                                "@existsInText": "true",
+                                "@totalMonths": "35",
+                                "@lastUsed": "2011-04-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-6"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Graphic Design",
+                        "@id": "569",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "ILLUSTRATION",
+                            "@id": "5570122",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Game Design",
+                        "@id": "570",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "ILLUSTRATION",
+                            "@id": "5570129",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Interactive Design",
+                        "@id": "572",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "ILLUSTRATION",
+                            "@id": "5570158",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2011-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Government",
+                    "@id": "86",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Regulatory",
+                        "@id": "524",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "REGULATORY COMPLIANCE",
+                            "@id": "006698",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Standards, Protocols, Technologies",
+                        "@id": "317",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTERACTIVE VOICE RESPONSE",
+                            "@id": "019976",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2013-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Visual",
+                        "@id": "229",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISIO",
+                            "@id": "024751",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MICROSOFT VISIO",
+                                "@id": "022037",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT OFFICE",
+                            "@id": "024467",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS OFFICE",
+                                "@id": "022136",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Planning and Analysis",
+                        "@id": "230",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT PROJECT",
+                            "@id": "024342",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS PROJECT",
+                                "@id": "022951",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "358",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "ORCAD",
+                            "@id": "025275",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architectural",
+                        "@id": "356",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUTOCAD",
+                            "@id": "0025251",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUTOCAD",
+                            "@id": "0025252",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Attitude",
+                        "@id": "528",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "75",
+                        "sov:Skill": [
+                          {
+                            "@name": "DETAIL-ORIENTED",
+                            "@id": "015338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "PROBLEM-SOLVING",
+                            "@id": "005483",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Aptitudes",
+                        "@id": "532",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "DETAIL-ORIENTED",
+                            "@id": "031029",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Modeling",
+                        "@id": "501",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCESS MODELLING",
+                            "@id": "005534",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "9",
+              "@ends": "22",
+              "@sectionType": "SUMMARY",
+              "#text": "PROFILE"
+            },
+            {
+              "@starts": "23",
+              "@ends": "37",
+              "@sectionType": "SKILLS",
+              "#text": "SKILLS"
+            },
+            {
+              "@starts": "38",
+              "@ends": "44",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "CERTIFICATIONS"
+            },
+            {
+              "@starts": "45",
+              "@ends": "303",
+              "@sectionType": "WORK HISTORY",
+              "#text": "PROFESSIONAL EXPERIENCE"
+            },
+            {
+              "@starts": "304",
+              "@ends": "308",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "PROFESSIONAL ACHIEVEMENTS"
+            },
+            {
+              "@starts": "309",
+              "@ends": "330",
+              "@sectionType": "EDUCATION",
+              "#text": "EDUCATIONAL AND PROFESSIONAL QUALIFICATIONS"
+            },
+            {
+              "@starts": "331",
+              "@ends": "340",
+              "@sectionType": "OTHER_PUBLICATIONS",
+              "#text": "Papers Presented"
+            },
+            {
+              "@starts": "341",
+              "@ends": "351",
+              "@sectionType": "SUMMARY",
+              "#text": "Synopsis"
+            },
+            {
+              "@starts": "352",
+              "@ends": "363",
+              "@sectionType": "PROFESSIONAL AFFILIATIONS",
+              "#text": "EXTRA CURRICULAR ACTIVITIES"
+            },
+            {
+              "@starts": "364",
+              "@ends": "364",
+              "@sectionType": "REFERENCES",
+              "#text": "References"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Contact: +918861605898",
+              "+918861605898"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": "BINEET KAUR CHOPRA"
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": "bineetchopra@gmail.com"
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": "Pocket A-1, Flat No. 20, Sector-5, Rohini"
+          }
+        },
+        "sov:ParsedTextLength": "14262",
+        "sov:ParseTime": "2047",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": "The following section type appeared multiple times in the resume: SUMMARY (2 occurrences). Each section should only appear once in a resume."
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "The following work history positions do not have a company name:  POS-4, POS-5, POS-6. Every position in a resume should have a company name.",
+                    "The following educational degrees do not have a degree name: DEG-4, DEG-3. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'.",
+                    "The following educational degree is not associated to a school: DEG-5. Every degree in a resume should be associated to a school."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "References section found in resume. References should not be included in a resume.",
+                    "The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead included in the descriptions of work history or education.",
+                    "The following section was identified as a publications section type: 'Papers Presented'. Publications should not be included in a resume."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "EU:Sovren EU Test:20180111084908564:6a5062d7-d721-4e2f-a80d-9a3079db8ab1",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "8.3.0.0",
+        "sov:DigitalSignature": "GG0Q2GnIZ/3eSk+CLPrMNw8agY3F4lPTIF4bvDANQkWY+fxGTnN07mty/Vh568IjSvNBE9+mYVsDK+fQau2bjQ=="
+      }
+    }
+  }
+}

@@ -1,0 +1,1764 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Rajesh Kumar Verma, PMP",
+          "GivenName": "Rajesh",
+          "MiddleName": "Kumar",
+          "FamilyName": "Verma",
+          "Affix": {
+            "@type": "qualification",
+            "#text": "PMP"
+          }
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "PostalCode": "421501",
+              "Region": "IN-MH",
+              "Municipality": "Thane",
+              "DeliveryAddress": {
+                "AddressLine": "A-702, Shree Sai Tower Kamlakar Nagar Ambernath west"
+              }
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "Mobile": {
+              "FormattedNumber": "+91-9833266885"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "Rajesh13.verma@gmail.com"
+          }
+        ]
+      },
+      "ExecutiveSummary": "• A result driven professional with a decade of work experience in Project Management & Implementation, Pre-Sales, Business Analysis, Client Servicing and Product Training in IT industry.\r\n• Proficient in project planning & execution for development &implementation activities.\r\n• Tracking and Monitoring IT portfolio health.\r\n• Strong client focus in building & maintaining healthy business relations and ensuring high customer satisfaction matrices by performing pre sales activities.\r\n• Onsite Experience in product implementation & Product training in international market with in financial service industry.\r\n• Efficient in implementation & manage client deliveries of trading solution as account manager.\r\n• Skilled in building & maintaining healthy relations with team &potential clients to ensure customer satisfaction.\r\n• Experience in documenting business& functional requirements, process flow diagrams.\r\n• Functional knowledge in financial products like Equities, Derivatives, Fixed Income, Commodity derivatives, FX.\r\n• Quick learner with an ability to rapidly achieve organizational integration.\r\n• Ability to work effectively with internal & external stakeholders.\r\n• Excellent interpersonal, communication, organizational, and project management skills.\r\n• Works on project management tool.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Yash Technology Pvt. Ltd",
+            "PositionHistory": [
+              {
+                "@currentEmployer": "true",
+                "OrgName": {
+                  "OrganizationName": "Yash Technology Pvt. Ltd"
+                },
+                "Description": "Work Profile\r\n• IT Portfolio planning for John Deere Financial services\r\n• Scope management for IT portfolio.\r\n• Lesion with regional IT leads for project requirements and portfolio planning.\r\n• Review all project plans and monitoring project health in terms of schedule &budget.\r\n• Managing leadership expectation by providing Project Reports like Status report, Milestone reports for all the projects\r\n• Implementing guidelines for monitoring health of IT portfolio and its projects.\r\n• Preparing Dashboard for IT Portfolio & operation review for leadership.\r\n• Consolidate & prepare monthly operations review presentation for leadership.\r\n• Work of MS- Project and Project management tools to analyze project health and prepare MIS reports for all project of portfolio.",
+                "StartDate": {
+                  "YearMonth": "2017-05"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Project Management",
+                    "Comments": "Information Technology describes 33% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SF",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Yash Technology"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Yash Technology"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Bloomberg LP",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Liaison",
+                "OrgName": {
+                  "OrganizationName": "Bloomberg LP"
+                },
+                "Description": "Role: Implementation & Account Management\r\nWork Profile:\r\n• Product Implementation of Bloomberg Trading Solution (SSEOMS ) in INDIA and PHILIPPINES\r\n• Project Management for end to end implementation of SSEOMS application.\r\n• Prepare project plan and execute accordingly.\r\n• Requirement gathering & analysis and prepare documents accordingly.\r\n• Communication with internal and external stakeholders.\r\n• Liaison with multiple teams for managing projects.\r\n• Monitoring project status and prepare &maintain MIS document for Project management activities.\r\n• Integration of front office, middle office & back office to automate workflow.\r\n• Product training to existing client and new clients.\r\n• Learn new functionality of product and implement it in client'sproduction environments.\r\n• Oversee the User Acceptance Testing (UAT) and launch of the products releases & new versions and Inform client on regular basis.\r\n• UAT and Production testing for technical go live and business go live.\r\n• Coordinator between Product team& client. This includes understanding business requirements, effort estimation, drafting business requirement specifications.\r\nHighlights:\r\n• Implementedproject for trading solution in INDIA, PHILIPPINES, HONG KONG and SINGAPORE market.\r\n• Implemented project for trade reporting for Philippines market to report trades to stock exchange.\r\n• ManagedBack office files migration project at client side.\r\n• Managed front office, middle office and back office user's expectation and implemented workflow to optimize business operation.\r\n\r\nProject: SSEOMS implementation (Migration Project)\r\nDescription: SSEOMS is an ASP electronic trading solution for investments banks, Institutional agency broking houses. It was migration projectwith customized features &functionalities to increase the efficiency of trading & operational activities for three countries.Client gets real time information and ability to manage business including:\r\n• Receives & manages orders from multiple domestic and international buyside clients.\r\n• Optimize workflow for trading and back office operation with integrating 3rd party application.\r\n• Onboard and manage multiple buyside clients over FIX connection.\r\n\r\nProject: NOE (Notification of Execution)\r\nDescription: NOE is an electronic trading application which is fully integrated with SSEOMS. It was used for reporting trade executions of offline orders to buyside trading application. It has advantage for both buyside and sellside users including.\r\n• It sends real time execution information of offline order via FIX connectivity.\r\n• Clients can amend, cancel and execution orders and its send info to buyside client.\r\n• It is integrated with SSEOMS and 3rd party application for order management.\r\n\r\nProject: Trade Reporting (TR)\r\nDescription: TR application is used for reporting cross orders executions to Philippines stock exchange. This application has advantage including.\r\n• Fully integrated with SSEOMS application.\r\n• Client gets alert & view which orders are eligible for crossing.\r\n• Client gets time based alert to report executed cross orders.\r\n\r\nProject: SSEOMS Integration.\r\nDescription: This project is fully integrated & customized for multiple countries in APAC. Client uses SSEOMS application main application for receiving orders and distributing to respective countries trades for execution and it has including ability:\r\n• Integrate to local trading application over FIX protocol.\r\n• Integrated with client's treasury application.\r\n• Receives orders from multiple buysideclients and distribute to respective countries users.\r\n• Integrated with client's middle & back office application to get real time P&L and commission calculations.",
+                "StartDate": {
+                  "YearMonth": "2014-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-12"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Project Management",
+                    "Comments": "Information Technology describes 37% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "ST",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SK",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Bloomberg",
+                    "sov:NormalizedTitle": "Liaison"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Bloomberg"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "NSE.IT Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Product Implementation, Pre-Sales, Business Analysis",
+                "OrgName": {
+                  "OrganizationName": "NSE.IT Ltd"
+                },
+                "OrgInfo": {
+                  "WebSite": "NSE.IT"
+                },
+                "Description": "Product Training & Account management.\r\nWork Profile:\r\n• Project Management &end to end implementation activities of Trading Application.\r\n• Understand client's business & functional requirement and prepare documents (BRD & FSD).\r\n• Monitoring project status & prepare & maintain MIS document for Project management activities.\r\n• Liaison with cross functional departments.\r\n• Interface with the systems team for the product development for capital, derivative and currency market.\r\n• Work closely with the Exchanges (NSE/BSE/NCDEX) members to serve their requirements related to CTCL/IBT/Mobile trading.\r\n• Oversee the products releases on as per schedule and inform client for the same.\r\n• UAT and Production testing for technical go live and business go live.\r\n• Training dealers, clients and RMS teams of the Trading member on functional and technical usage of the software.\r\n• Handholding to clients in implementing the platform across geographies and hierarchies.\r\n\r\nHighlights:\r\n• Managed project implementation of trading application (NSE-NOW, AlgoNomics, TradeGenie).\r\n• Manages multiple projects of trading for external clients.\r\n• Prepared project plan and executed it for increasing concurrent login & usage thereby contributing to more than 10% of the turnover of NSE on NOW application.\r\n• Nominated as Star performer for the year 2009.\r\nProject:NSE-NOW\r\nDescription: NSE-NOW is an ASP trading solution which provides online and offline trading. It is provided to NSE members to optimize trading workflow and increase business reach geographically. It provides real-time information& advantage including:\r\n• Real-time market data (Stock price)& P&L of the day.\r\n• Placing orders to NSE and monitor status.\r\n• Workflow optimization with integrating middle office, back office& payment gateways.\r\n• Provides access to end client of broking houses of online trading platform\r\n• Provides real time risk management.\r\n\r\nProject: AlgoNomics\r\nDescription: AlgoNomics is an algo trading application for broking houses with pre defined algo strategies. It is high performance and low latency trading application.  It provides real time access to broking houses with including advantages:\r\n• Real time market data of NSE and BSE stock prices & differences.\r\n• AlgoNomics Trader WorkStation enables traders to seamlessly create and monitor trading strategies.\r\n• Real time risk management and monitoring of placed orders.\r\n• Provide flexibility to host infrastructure at exchange premises.\r\n\r\nProject: TradeGenie\r\nDescription: TradeGenie is a quant based (Charting based) trading application for broking houses. Trader can customized strategies with charting indicators. It provides access of real time information including:\r\n• Buy or Sell signals of strategies.\r\n• Provide flexibility to place orders manually or automatically as an when signal generate.\r\n• Real-time market data (Stock price) and monitor status of orders including P&L of the day.\r\n• Real time risk management and monitoring of placed orders.",
+                "StartDate": {
+                  "YearMonth": "2009-01"
+                },
+                "EndDate": {
+                  "YearMonth": "2014-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Project Management",
+                    "Comments": "Information Technology describes 42% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "ST",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "BM",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "NSE.IT",
+                    "sov:NormalizedTitle": "Product Implementation Pre Sales Business Analysis",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Pre-Sales"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "NSE.IT"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "DirectFN Networks Pvt. Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Pre-Sales, Business Analysis & Account management",
+                "OrgName": {
+                  "OrganizationName": "DirectFN Networks Pvt. Ltd"
+                },
+                "Description": "Work Profile:\r\n• Responsible to perform business analyst role to implement required features in trading solution as per Indian market.\r\n• Gather market intelligence and valuable information to compete and penetrate the trading product.\r\n• Responsible for promoting International market trading solution and info vending solution to Indian broking houses.\r\n• Gap analysis between our trading products and competitors trading solution.\r\n• Responsible for UAT testing the trading product.\r\n• Training and demonstration for trading product and Risk Management system to Indian broking house.\r\n\r\nHighlights:\r\n• Successfully implemented trading solution at Reliance Money.\r\n• Successfully implemented info vending terminals at broking houses.",
+                "StartDate": {
+                  "YearMonth": "2008-10"
+                },
+                "EndDate": {
+                  "YearMonth": "2009-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "QA and QC → Techniques",
+                    "Comments": "QA and QC describes 30% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "ST",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "ST",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "DirectFN Networks",
+                    "sov:NormalizedTitle": "Pre Sales Business Analysis AND Account management",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Pre-Sales, Business Analysis & Account",
+                        "Pre-Sales, Business Analysis"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "DirectFN Networks"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "ReligareTechnova Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Pre-Sales, Business Analysis & Account management",
+                "OrgName": {
+                  "OrganizationName": "Asian CERC Information Technology Ltd"
+                },
+                "Description": "Work Profile:\r\n• Responsible pre sales and BA activity for Trading Application.\r\n• Perform BA role to understand clients business & functional requirement and prepare document accordingly.\r\n• Product training and demonstration of trading product and Risk Management system to Indian broking house.\r\n• Knowledge of exchange documentation and audit process for product approval.\r\n• Oversee documentation for compliance for new application for Internet based trading approval from NSE and BSE.\r\n\r\nHighlights:\r\n• Successfully collected client's requirements and Prepared document for trading online and offline trading.\r\n• Implemented payment gateway requirements for online trading client.\r\n• Collect business requirement for financial web portal for Mutual fund and IPO.\r\n• Managed project implementation of financial website for client.",
+                "StartDate": {
+                  "YearMonth": "2007-01"
+                },
+                "EndDate": {
+                  "YearMonth": "2008-10"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Financial Planning & Analysis",
+                    "Comments": "Finance describes 42% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SB",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "ST",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Asian CERC Information Technology",
+                    "sov:NormalizedTitle": "Pre Sales Business Analysis AND Account management",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Pre-Sales, Business Analysis & Account",
+                        "Pre-Sales, Business Analysis"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "ReligareTechnova"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": {
+              "SchoolName": "Pune University"
+            },
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": "MAHARASHTRA",
+              "Municipality": "Pune"
+            },
+            "Degree": {
+              "@degreeType": "masters",
+              "DegreeName": "Masters of Marketing Management",
+              "DegreeDate": {
+                "Year": "2007"
+              },
+              "DegreeMajor": {
+                "Name": [
+                  "Marketing Management"
+                ]
+              },
+              "DatesOfAttendance": {
+                "StartDate": {
+                  "AnyDate": "notKnown"
+                },
+                "EndDate": {
+                  "Year": "2007"
+                }
+              },
+              "Comments": "• Masters of Marketing Management from Pune University in 2007.",
+              "UserArea": {
+                "sov:DegreeUserArea": {
+                  "sov:Id": "DEG-1",
+                  "sov:NormalizedDegreeName": "masters",
+                  "sov:NormalizedDegreeType": "masters"
+                }
+              }
+            },
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of Pune"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": {
+              "SchoolName": "Indira School of management Studies"
+            },
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": "MAHARASHTRA",
+              "Municipality": "Pune"
+            },
+            "Degree": {
+              "@degreeType": "some post-graduate",
+              "DegreeName": "PGDBM",
+              "DegreeDate": {
+                "Year": "2007"
+              },
+              "DatesOfAttendance": {
+                "StartDate": {
+                  "AnyDate": "notKnown"
+                },
+                "EndDate": {
+                  "Year": "2007"
+                }
+              },
+              "Comments": "• PGDBM from Indira School of management Studies, Pune in 2007.",
+              "UserArea": {
+                "sov:DegreeUserArea": {
+                  "sov:Id": "DEG-2",
+                  "sov:NormalizedDegreeName": "somepostgraduate",
+                  "sov:NormalizedDegreeType": "some post-graduate"
+                }
+              }
+            },
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Indira School of management Studies"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": {
+              "SchoolName": "Rajasthan University"
+            },
+            "Degree": {
+              "@degreeType": "bachelors",
+              "DegreeName": "B.E. in Computer Science",
+              "DegreeMajor": {
+                "Name": [
+                  "Computer Science"
+                ]
+              },
+              "Comments": "• B.E. in Computer Science from Rajasthan University in year 2004.",
+              "UserArea": {
+                "sov:DegreeUserArea": {
+                  "sov:Id": "DEG-3",
+                  "sov:NormalizedDegreeName": "bachelors",
+                  "sov:NormalizedDegreeType": "bachelors"
+                }
+              }
+            },
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Rajasthan University"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "PMP",
+            "Id": "1",
+            "Description": "certification; matched to list"
+          },
+          {
+            "Name": "NCFM Certificate in Capital Market (Dealer) and Derivate Market (Dealer) Module",
+            "Id": "2",
+            "Description": "certification"
+          },
+          {
+            "Name": "(Dealer)",
+            "Id": "2",
+            "Description": "NCFM Certificate in Capital Market (Dealer) and Derivate Market (Dealer) Module"
+          },
+          {
+            "Name": "NCFM Certificate in Capital Market",
+            "Id": "2",
+            "Description": "NCFM Certificate in Capital Market (Dealer) and Derivate Market (Dealer) Module"
+          },
+          {
+            "Name": "PMP certification",
+            "Id": "5",
+            "Description": "• PMP certification for Project Management.\r\n\r\n• NCFM Certificate in Capital Market (Dealer) and Derivate Market (Dealer) Module."
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "false",
+            "Write": "false",
+            "Speak": "true",
+            "Comments": "English, Hindi,"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "false",
+            "Write": "false",
+            "Speak": "true",
+            "Comments": "English, Hindi,"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Nominated as Star performer for the year 2009"
+          }
+        ]
+      },
+      "RevisionDate": "2018-01-11"
+    },
+    "NonXMLResume": {
+      "TextResume": "Rajesh Kumar Verma, PMP\r\nEmail: Rajesh13.verma@gmail.com\r\nMobile: +91-9833266885\r\n\r\nAiming a challenging position with dynamic organization, that effectively utilizes my learning abilities, analytical skills and experience.\r\n\r\nPROFILE SNAPSHOT\r\n\r\n• A result driven professional with a decade of work experience in Project Management & Implementation, Pre-Sales, Business Analysis, Client Servicing and Product Training in IT industry.\r\n• Proficient in project planning & execution for development &implementation activities.\r\n• Tracking and Monitoring IT portfolio health.\r\n• Strong client focus in building & maintaining healthy business relations and ensuring high customer satisfaction matrices by performing pre sales activities.\r\n• Onsite Experience in product implementation & Product training in international market with in financial service industry.\r\n• Efficient in implementation & manage client deliveries of trading solution as account manager.\r\n• Skilled in building & maintaining healthy relations with team &potential clients to ensure customer satisfaction.\r\n• Experience in documenting business& functional requirements, process flow diagrams.\r\n• Functional knowledge in financial products like Equities, Derivatives, Fixed Income, Commodity derivatives, FX.\r\n• Quick learner with an ability to rapidly achieve organizational integration.\r\n• Ability to work effectively with internal & external stakeholders.\r\n• Excellent interpersonal, communication, organizational, and project management skills.\r\n• Works on project management tool.\r\n\r\nORGANIZATIONAL EXPERIENCE\r\n\r\nSince May 2017\tYash Technology Pvt. Ltd.\r\n\r\nWork Profile\r\n• IT Portfolio planning for John Deere Financial services\r\n• Scope management for IT portfolio.\r\n• Lesion with regional IT leads for project requirements and portfolio planning.\r\n• Review all project plans and monitoring project health in terms of schedule &budget.\r\n• Managing leadership expectation by providing Project Reports like Status report, Milestone reports for all the projects\r\n• Implementing guidelines for monitoring health of IT portfolio and its projects.\r\n• Preparing Dashboard for IT Portfolio & operation review for leadership.\r\n• Consolidate & prepare monthly operations review presentation for leadership.\r\n• Work of MS- Project and Project management tools to analyze project health and prepare MIS reports for all project of portfolio.\r\n\r\nAug 2014- Dec 2016\tBloomberg LP\r\n\r\nRole: Implementation & Account Management\r\nWork Profile:\r\n• Product Implementation of Bloomberg Trading Solution (SSEOMS ) in INDIA and PHILIPPINES\r\n• Project Management for end to end implementation of SSEOMS application.\r\n• Prepare project plan and execute accordingly.\r\n• Requirement gathering & analysis and prepare documents accordingly.\r\n• Communication with internal and external stakeholders.\r\n• Liaison with multiple teams for managing projects.\r\n• Monitoring project status and prepare &maintain MIS document for Project management activities.\r\n• Integration of front office, middle office & back office to automate workflow.\r\n• Product training to existing client and new clients.\r\n• Learn new functionality of product and implement it in client'sproduction environments.\r\n• Oversee the User Acceptance Testing (UAT) and launch of the products releases & new versions and Inform client on regular basis.\r\n• UAT and Production testing for technical go live and business go live.\r\n• Coordinator between Product team& client. This includes understanding business requirements, effort estimation, drafting business requirement specifications.\r\nHighlights:\r\n• Implementedproject for trading solution in INDIA, PHILIPPINES, HONG KONG and SINGAPORE market.\r\n• Implemented project for trade reporting for Philippines market to report trades to stock exchange.\r\n• ManagedBack office files migration project at client side.\r\n• Managed front office, middle office and back office user's expectation and implemented workflow to optimize business operation.\r\n\r\nProject: SSEOMS implementation (Migration Project)\r\nDescription: SSEOMS is an ASP electronic trading solution for investments banks, Institutional agency broking houses. It was migration projectwith customized features &functionalities to increase the efficiency of trading & operational activities for three countries.Client gets real time information and ability to manage business including:\r\n• Receives & manages orders from multiple domestic and international buyside clients.\r\n• Optimize workflow for trading and back office operation with integrating 3rd party application.\r\n• Onboard and manage multiple buyside clients over FIX connection.\r\n\r\nProject: NOE (Notification of Execution)\r\nDescription: NOE is an electronic trading application which is fully integrated with SSEOMS. It was used for reporting trade executions of offline orders to buyside trading application. It has advantage for both buyside and sellside users including.\r\n• It sends real time execution information of offline order via FIX connectivity.\r\n• Clients can amend, cancel and execution orders and its send info to buyside client.\r\n• It is integrated with SSEOMS and 3rd party application for order management.\r\n\r\nProject: Trade Reporting (TR)\r\nDescription: TR application is used for reporting cross orders executions to Philippines stock exchange. This application has advantage including.\r\n• Fully integrated with SSEOMS application.\r\n• Client gets alert & view which orders are eligible for crossing.\r\n• Client gets time based alert to report executed cross orders.\r\n\r\nProject: SSEOMS Integration.\r\nDescription: This project is fully integrated & customized for multiple countries in APAC. Client uses SSEOMS application main application for receiving orders and distributing to respective countries trades for execution and it has including ability:\r\n• Integrate to local trading application over FIX protocol.\r\n• Integrated with client's treasury application.\r\n• Receives orders from multiple buysideclients and distribute to respective countries users.\r\n• Integrated with client's middle & back office application to get real time P&L and commission calculations.\r\n\r\n\r\nJan' 2009- Jul'2014\tNSE.IT Ltd. (A 100% subsidiary of National Stock Exchange)\r\nRole: Product Implementation, Pre-Sales, Business Analysis, Product Training & Account management.\r\nWork Profile:\r\n• Project Management &end to end implementation activities of Trading Application.\r\n• Understand client's business & functional requirement and prepare documents (BRD & FSD).\r\n• Monitoring project status & prepare & maintain MIS document for Project management activities.\r\n• Liaison with cross functional departments.\r\n• Interface with the systems team for the product development for capital, derivative and currency market.\r\n• Work closely with the Exchanges (NSE/BSE/NCDEX) members to serve their requirements related to CTCL/IBT/Mobile trading.\r\n• Oversee the products releases on as per schedule and inform client for the same.\r\n• UAT and Production testing for technical go live and business go live.\r\n• Training dealers, clients and RMS teams of the Trading member on functional and technical usage of the software.\r\n• Handholding to clients in implementing the platform across geographies and hierarchies.\r\n\r\nHighlights:\r\n• Managed project implementation of trading application (NSE-NOW, AlgoNomics, TradeGenie).\r\n• Manages multiple projects of trading for external clients.\r\n• Prepared project plan and executed it for increasing concurrent login & usage thereby contributing to more than 10% of the turnover of NSE on NOW application.\r\n• Nominated as Star performer for the year 2009.\r\nProject:NSE-NOW\r\nDescription: NSE-NOW is an ASP trading solution which provides online and offline trading. It is provided to NSE members to optimize trading workflow and increase business reach geographically. It provides real-time information& advantage including:\r\n• Real-time market data (Stock price)& P&L of the day.\r\n• Placing orders to NSE and monitor status.\r\n• Workflow optimization with integrating middle office, back office& payment gateways.\r\n• Provides access to end client of broking houses of online trading platform\r\n• Provides real time risk management.\r\n\r\nProject: AlgoNomics\r\nDescription: AlgoNomics is an algo trading application for broking houses with pre defined algo strategies. It is high performance and low latency trading application.  It provides real time access to broking houses with including advantages:\r\n• Real time market data of NSE and BSE stock prices & differences.\r\n• AlgoNomics Trader WorkStation enables traders to seamlessly create and monitor trading strategies.\r\n• Real time risk management and monitoring of placed orders.\r\n• Provide flexibility to host infrastructure at exchange premises.\r\n\r\nProject: TradeGenie\r\nDescription: TradeGenie is a quant based (Charting based) trading application for broking houses. Trader can customized strategies with charting indicators. It provides access of real time information including:\r\n• Buy or Sell signals of strategies.\r\n• Provide flexibility to place orders manually or automatically as an when signal generate.\r\n• Real-time market data (Stock price) and monitor status of orders including P&L of the day.\r\n• Real time risk management and monitoring of placed orders.\r\n\r\nOct'2008 - Jan'09\tDirectFN Networks Pvt. Ltd.\r\n\r\nRole: Pre-Sales, Business Analysis & Account management..\r\nWork Profile:\r\n• Responsible to perform business analyst role to implement required features in trading solution as per Indian market.\r\n• Gather market intelligence and valuable information to compete and penetrate the trading product.\r\n• Responsible for promoting International market trading solution and info vending solution to Indian broking houses.\r\n• Gap analysis between our trading products and competitors trading solution.\r\n• Responsible for UAT testing the trading product.\r\n• Training and demonstration for trading product and Risk Management system to Indian broking house.\r\n\r\nHighlights:\r\n• Successfully implemented trading solution at Reliance Money.\r\n• Successfully implemented info vending terminals at broking houses.\r\n\r\nJan'2007 - Oct'08\tReligareTechnova Ltd(Formally- Asian CERC Information Technology Ltd.)\r\n\r\nRole: Pre-Sales, Business Analysis & Account management.\r\nWork Profile:\r\n• Responsible pre sales and BA activity for Trading Application.\r\n• Perform BA role to understand clients business & functional requirement and prepare document accordingly.\r\n• Product training and demonstration of trading product and Risk Management system to Indian broking house.\r\n• Knowledge of exchange documentation and audit process for product approval.\r\n• Oversee documentation for compliance for new application for Internet based trading approval from NSE and BSE.\r\n\r\nHighlights:\r\n• Successfully collected client's requirements and Prepared document for trading online and offline trading.\r\n• Implemented payment gateway requirements for online trading client.\r\n• Collect business requirement for financial web portal for Mutual fund and IPO.\r\n• Managed project implementation of financial website for client.\r\n\r\nPROFESSIONAL QUALIFICATIONS\r\n\r\n• Masters of Marketing Management from Pune University in 2007.\r\n• PGDBM from Indira School of management Studies, Pune in 2007.\r\n• B.E. in Computer Science from Rajasthan University in year 2004.\r\n• PMP certification for Project Management.\r\n• NCFM Certificate in Capital Market (Dealer) and Derivate Market (Dealer) Module.\r\n\r\nPERSONAL DETAILS\r\n\r\nDate of Birth: 13th February, 1982\r\nLanguages Known: English, Hindi,\r\nAddress: A-702, Shree Sai Tower Kamlakar Nagar Ambernath west Thane-421501, Maharashtra"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": "1982-02-13"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Rajesh Kumar Verma's experience appears to be somewhat concentrated in Information Technology (mostly Project Management), and somewhat concentrated in Finance (mostly Real Estate & Facilities). Rajesh Kumar Verma has 11 years of work experience.",
+          "sov:MonthsOfWorkExperience": "127",
+          "sov:AverageMonthsPerEmployer": "25",
+          "sov:FulltimeDirectHirePredictiveIndex": "85",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "22",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "42",
+                        "sov:Skill": [
+                          {
+                            "@name": "GAP ANALYSIS",
+                            "@id": "018087",
+                            "@existsInText": "true",
+                            "@totalMonths": "3",
+                            "@lastUsed": "2009-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "PMI/PMP",
+                            "@id": "024546",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "PMP CERTIFICATION",
+                                "@id": "005054",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in CERTIFICATIONS; EDUCATION"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "PMP",
+                            "@id": "005053",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; EDUCATION"
+                          },
+                          {
+                            "@name": "PROJECT MANAGEMENT",
+                            "@id": "0216662",
+                            "@existsInText": "true",
+                            "@totalMonths": "103",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in EDUCATION; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "PROJECT PLAN",
+                            "@id": "024323",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "PROJECT PLANNING",
+                            "@id": "005820",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "PROJECT PLANS",
+                            "@id": "026266",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "024469",
+                            "@existsInText": "true",
+                            "@totalMonths": "91",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3; POS-4; POS-5"
+                          },
+                          {
+                            "@name": "BUSINESS REQUIREMENTS",
+                            "@id": "022626",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "EXCHANGE",
+                            "@id": "022840",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081198",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "UAT",
+                            "@id": "010065",
+                            "@existsInText": "true",
+                            "@totalMonths": "98",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCHANGE",
+                            "@id": "3490029",
+                            "@existsInText": "true",
+                            "@totalMonths": "116",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASP",
+                            "@id": "004324",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "WEB PORTAL",
+                            "@id": "011010",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2008-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "GO LIVE",
+                            "@id": "018480",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Workflow and Imaging",
+                        "@id": "342",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "WORKFLOW",
+                            "@id": "024213",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081189",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "REAL-TIME",
+                            "@id": "081190",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Embedded and Realtime",
+                        "@id": "340",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081185",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "REAL-TIME",
+                            "@id": "081186",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial",
+                        "@id": "350",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGO",
+                            "@id": "026548",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "RMS",
+                            "@id": "3380028",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "REQUIREMENT GATHERING",
+                            "@id": "006830",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "22",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Real Estate & Facilities",
+                        "@id": "710",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "35",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROJECT MANAGEMENT",
+                            "@id": "7000113",
+                            "@existsInText": "true",
+                            "@totalMonths": "103",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in EDUCATION; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "27",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRADING",
+                            "@id": "080204",
+                            "@existsInText": "true",
+                            "@totalMonths": "119",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2; POS-3; POS-4; POS-5",
+                            "@childrenTotalMonths": "91",
+                            "@childrenLastUsed": "2014-07-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RISK MANAGEMENT",
+                                "@id": "007100",
+                                "@existsInText": "true",
+                                "@totalMonths": "91",
+                                "@lastUsed": "2014-07-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-3; POS-4; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "245",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUDIT",
+                            "@id": "005583",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2008-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "DERIVATIVES",
+                            "@id": "024287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "080179",
+                            "@existsInText": "true",
+                            "@totalMonths": "119",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2; POS-3; POS-4; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "012194",
+                            "@existsInText": "true",
+                            "@totalMonths": "91",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3; POS-4; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Trading",
+                        "@id": "239",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL SERVICES",
+                            "@id": "017478",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "MONITOR TRADING",
+                            "@id": "002703",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Investor Relations",
+                        "@id": "704",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "IPO",
+                            "@id": "7000030",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2008-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Equities",
+                        "@id": "238",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MUTUAL FUND",
+                            "@id": "003228",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2008-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mortgage",
+                        "@id": "233",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "EQUITIES",
+                            "@id": "024697",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "FIXED INCOME",
+                            "@id": "023108",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "17",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "64",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "022750",
+                            "@existsInText": "true",
+                            "@totalMonths": "119",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2; POS-3; POS-4; POS-5",
+                            "@childrenTotalMonths": "91",
+                            "@childrenLastUsed": "2014-07-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RISK MANAGEMENT",
+                                "@id": "007099",
+                                "@existsInText": "true",
+                                "@totalMonths": "91",
+                                "@lastUsed": "2014-07-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-3; POS-4; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "36",
+                        "sov:Skill": [
+                          {
+                            "@name": "ACCOUNT MANAGEMENT",
+                            "@id": "025224",
+                            "@existsInText": "true",
+                            "@totalMonths": "119",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3; POS-4; POS-5"
+                          },
+                          {
+                            "@name": "LIAISON",
+                            "@id": "020733",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Marketing Communications",
+                        "@id": "592",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "74",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROJECT MANAGEMENT",
+                            "@id": "1400154",
+                            "@existsInText": "true",
+                            "@totalMonths": "103",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in EDUCATION; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Brand Management",
+                        "@id": "227",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "23",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DEVELOPMENT",
+                            "@id": "005612",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "PRODUCT IMPLEMENTATION",
+                            "@id": "005626",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DEVELOPMENT",
+                            "@id": "1400022",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "MARKETING MANAGEMENT",
+                            "@id": "021251",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Knowledge and Learning Management",
+                    "@id": "92",
+                    "@percentOfOverall": "9",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Knowledge and Learning Management",
+                        "@id": "903",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRAINING",
+                            "@id": "200064",
+                            "@existsInText": "true",
+                            "@totalMonths": "119",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2; POS-3; POS-4; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Account Management",
+                        "@id": "104",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "60",
+                        "sov:Skill": [
+                          {
+                            "@name": "ACCOUNT MANAGEMENT",
+                            "@id": "025223",
+                            "@existsInText": "true",
+                            "@totalMonths": "119",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3; POS-4; POS-5"
+                          },
+                          {
+                            "@name": "ACCOUNT MANAGER",
+                            "@id": "030183",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "40",
+                        "sov:Skill": [
+                          {
+                            "@name": "SALES ACTIVITIES",
+                            "@id": "030672",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "SATISFACTION",
+                            "@id": "030000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Recruitment & Staffing",
+                        "@id": "190",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "98",
+                        "sov:Skill": [
+                          {
+                            "@name": "ACCOUNT MANAGEMENT",
+                            "@id": "9000244",
+                            "@existsInText": "true",
+                            "@totalMonths": "119",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3; POS-4; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Talent Sourcing",
+                        "@id": "583",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMPETITIVE INTELLIGENCE",
+                            "@id": "9000260",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "3",
+                            "@childrenLastUsed": "2009-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MARKET INTELLIGENCE",
+                                "@id": "9000261",
+                                "@existsInText": "true",
+                                "@totalMonths": "3",
+                                "@lastUsed": "2009-01-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "60",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "022816",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "REAL-TIME",
+                            "@id": "080770",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "30",
+                        "sov:Skill": [
+                          {
+                            "@name": "ESTIMATION",
+                            "@id": "080470",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "OPTIMIZATION",
+                            "@id": "023295",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "REAL-TIME",
+                            "@id": "080509",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Techniques",
+                        "@id": "264",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "ESTIMATION",
+                            "@id": "080635",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Process",
+                        "@id": "143",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCESS FLOW",
+                            "@id": "005515",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "94",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK MANAGEMENT",
+                            "@id": "007098",
+                            "@existsInText": "true",
+                            "@totalMonths": "91",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3; POS-4; POS-5"
+                          },
+                          {
+                            "@name": "UAT TESTING",
+                            "@id": "010066",
+                            "@existsInText": "true",
+                            "@totalMonths": "3",
+                            "@lastUsed": "2009-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "USER ACCEPTANCE",
+                            "@id": "023992",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2",
+                            "@childrenTotalMonths": "28",
+                            "@childrenLastUsed": "2016-12-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ACCEPTANCE TESTING",
+                                "@id": "003784",
+                                "@existsInText": "true",
+                                "@totalMonths": "28",
+                                "@lastUsed": "2016-12-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Software",
+                        "@id": "931",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "GAP ANALYSIS",
+                            "@id": "018086",
+                            "@existsInText": "true",
+                            "@totalMonths": "3",
+                            "@lastUsed": "2009-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Legal",
+                    "@id": "12",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Litigation",
+                        "@id": "400",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLIENTS",
+                            "@id": "200081",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Clerical & Paralegal",
+                        "@id": "397",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "DRAFTING",
+                            "@id": "3970006",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Management",
+                    "@id": "80",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Budget Related",
+                        "@id": "516",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "ESTIMATION",
+                            "@id": "016952",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management and Management Tasks",
+                        "@id": "519",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "MANAGING PROJECTS",
+                            "@id": "021111",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTEGRATOR",
+                            "@id": "5570146",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "28",
+                            "@childrenLastUsed": "2016-12-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTEGRATION",
+                                "@id": "5570147",
+                                "@existsInText": "true",
+                                "@totalMonths": "28",
+                                "@lastUsed": "2016-12-01",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Specs and Documentation",
+                        "@id": "429",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DOCUMENTATION",
+                            "@id": "022620",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2008-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "DOCUMENTING",
+                            "@id": "023928",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "PROJECT PLANS",
+                            "@id": "026267",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Nursing",
+                    "@id": "99",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "457",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHARTING",
+                            "@id": "089003",
+                            "@existsInText": "true",
+                            "@totalMonths": "67",
+                            "@lastUsed": "2014-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Logistics",
+                        "@id": "460",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ORDER MANAGEMENT",
+                            "@id": "004014",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Computer Related",
+                        "@id": "115",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "USER ACCEPTANCE",
+                            "@id": "023991",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2016-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2",
+                            "@childrenTotalMonths": "28",
+                            "@childrenLastUsed": "2016-12-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "USER ACCEPTANCE TESTING",
+                                "@id": "010320",
+                                "@existsInText": "true",
+                                "@totalMonths": "28",
+                                "@lastUsed": "2016-12-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "6",
+              "@ends": "21",
+              "@sectionType": "SUMMARY",
+              "#text": "PROFILE SNAPSHOT"
+            },
+            {
+              "@starts": "22",
+              "@ends": "157",
+              "@sectionType": "WORK HISTORY",
+              "#text": "ORGANIZATIONAL EXPERIENCE"
+            },
+            {
+              "@starts": "158",
+              "@ends": "165",
+              "@sectionType": "EDUCATION",
+              "#text": "PROFESSIONAL QUALIFICATIONS"
+            },
+            {
+              "@starts": "166",
+              "@ends": "168",
+              "@sectionType": "CONTACT INFO",
+              "#text": "PERSONAL DETAILS"
+            },
+            {
+              "@starts": "169",
+              "@ends": "170",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Mobile: +91-9833266885",
+              "+91-9833266885"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Rajesh Kumar Verma",
+              "Rajesh Kumar Verma, PMP"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": "Rajesh13.verma@gmail.com"
+          },
+          "sov:Urls": {
+            "sov:Url": "NSE.IT"
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "A-702, Shree Sai Tower Kamlakar Nagar Ambernath west",
+              "Date of Birth: 13th February, 1982"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "11521",
+        "sov:ParseTime": "1235",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": "The resume contains a contact information section that is not the first section. A resume should always include contact info at the top of the resume."
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": "The following work history position does not have a job title:  POS-1. Every position in a resume should have a job title."
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "EU:Sovren EU Test:20180111084908501:576c27f9-24f3-494b-8e08-ab9ba59f563b",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "8.3.0.0",
+        "sov:DigitalSignature": "Aph+H3Qh4dsTWklm4pMhOEp2i6mxusFiye7Y7OwaScdvGUzws7rSbajVJr3rxK6Ik0+dlXWkG8LPIkPPjZ4JeQ=="
+      }
+    }
+  }
+}

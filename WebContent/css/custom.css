@@ -1,0 +1,306 @@
+@import
+	url(https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css)
+	;
+
+@import
+	url("https://fonts.googleapis.com/css?family=Lato:300,400,700,300i,400i,700i")
+	;
+/*basic reset*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	height: 100%;
+	/* Chrome 10-25, Safari 5.1-6 */
+}
+
+body {
+	font-family: "Lato", Arial, Helvetica, sans-serif;
+	background: transparent;
+}
+
+/*form styles*/
+#msform {
+	text-align: center;
+	position: relative;
+	margin-top: 30px;
+}
+
+#msform fieldset {
+	background: white;
+	border: 0 none;
+	border-radius: 0px;
+	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+	padding: 20px 30px;
+	box-sizing: border-box;
+	width: 80%;
+	margin: 0 10%;
+	/*stacking fieldsets above each other*/
+	position: relative;
+}
+
+/*Hide all except first fieldset*/
+#msform fieldset:not(:first-of-type){
+	display:none;
+}
+
+/*inputs*/
+#msform input, #msform textarea {
+	padding: 15px;
+	height: 40px;
+	border: 1px solid #ccc;
+	border-radius: 0px;
+	margin-bottom: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	font-family: "Lato", Arial, Helvetica, sans-serif;
+	color: #2C3E50;
+	font-size: 13px;
+}
+
+#msform input:focus, #msform textarea:focus {
+	-moz-box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+	border: 1px solid #3fb72a;
+	outline-width: 0;
+	transition: All 0.5s ease-in;
+	-webkit-transition: All 0.5s ease-in;
+	-moz-transition: All 0.5s ease-in;
+	-o-transition: All 0.5s ease-in;
+}
+
+/*buttons*/
+#msform .action-button {
+	width: 100px;
+	background: #3fb72a;
+	font-weight: bold;
+	color: white;
+	border: 0 none;
+	border-radius: 25px;
+	cursor: pointer;
+	padding: 10px 5px;
+	margin: 10px 5px;
+}
+
+#msform .action-button:hover, #msform .action-button:focus {
+	box-shadow: 0 0 0 2px white, 0 0 0 3px #3fb72a;
+}
+
+#msform .action-button-previous {
+	width: 100px;
+	background: #C5C5F1;
+	font-weight: bold;
+	color: white;
+	border: 0 none;
+	border-radius: 25px;
+	cursor: pointer;
+	padding: 10px 5px;
+	margin: 10px 5px;
+}
+
+#msform .action-button-previous:hover, #msform .action-button-previous:focus
+	{
+	box-shadow: 0 0 0 2px white, 0 0 0 3px #C5C5F1;
+}
+
+/*headings*/
+.fs-title {
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #2C3E50;
+	margin-bottom: 10px;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+
+.fs-subtitle {
+	font-weight: normal;
+	font-size: 13px;
+	color: #666;
+	margin-bottom: 20px;
+}
+
+/*progressbar*/
+#progressbar {
+	margin-bottom: 30px;
+	overflow: hidden;
+}
+
+#progressbar .li1, #progressbar .li2, #progressbar .li3, #progressbar .li4,
+	#progressbar .li5, #progressbar .li6 {
+	list-style-type: none;
+	color: white;
+	text-transform: uppercase;
+	font-size: 11px;
+	width: 16.5%;
+	float: left;
+	position: relative;
+	letter-spacing: 1px;
+}
+
+#progressbar .li1:before {
+	content: '\f040';
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+	width: 45px;
+	height: 45px;
+    line-height: 40px;
+    display: block;
+    font-size: 18px;
+	color: #333;
+	background: white;
+	border-radius: 25px;
+	margin: 0 auto 10px auto;
+	border: 2px solid #fff;
+}
+
+#progressbar .li2:before {
+	content: '\f15b';
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+	width: 45px;
+	height: 45px;
+    line-height: 40px;
+    display: block;
+    font-size: 18px;
+	color: #333;
+	background: white;
+	border-radius: 25px;
+	margin: 0 auto 10px auto;
+	border: 2px solid #fff;
+}
+
+#progressbar .li3:before {
+	content: '\f007';
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+	width: 45px;
+	height: 45px;
+    line-height: 40px;
+    display: block;
+    font-size: 18px;
+	color: #333;
+	background: white;
+	border-radius: 25px;
+	margin: 0 auto 10px auto;
+	border: 2px solid #fff;
+}
+
+#progressbar .li4:before {
+	content: '\f19d';
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+	width: 45px;
+	height: 45px;
+    line-height: 40px;
+    display: block;
+    font-size: 18px;
+	color: #333;
+	background: white;
+	border-radius: 25px;
+	margin: 0 auto 10px auto;
+	border: 2px solid #fff;
+}
+
+#progressbar .li5:before {
+	content: '\f0f2';
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+	width: 45px;
+	height: 45px;
+    line-height: 40px;
+    display: block;
+    font-size: 18px;
+	color: #333;
+	background: white;
+	border-radius: 25px;
+	margin: 0 auto 10px auto;
+	border: 2px solid #fff;
+}
+
+#progressbar .li6:before {
+	content: '\f15b';
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+	width: 45px;
+	height: 45px;
+    line-height: 40px;
+    display: block;
+    font-size: 18px;
+	color: #333;
+	background: white;
+	border-radius: 25px;
+	margin: 0 auto 10px auto;
+	border: 2px solid #fff;
+}
+
+/*progressbar connectors*/
+#progressbar .li1:after, #progressbar .li2:after, #progressbar .li3:after,
+	#progressbar .li4:after, #progressbar .li5:after, #progressbar .li6:after
+	{
+	content: '';
+	width: 100%;
+	height: 2px;
+	background: white;
+	position: absolute;
+	left: -50%;
+	top: 19px;
+	z-index: -1; /*put it behind the numbers*/
+}
+
+#progressbar .li1:first-child:after, #progressbar .li2:first-child:after,
+	#progressbar .li3:first-child:after, #progressbar .li4:first-child:after,
+	#progressbar .li5:first-child:after, #progressbar .li6:first-child:after
+	{
+	/*connector not needed before the first step*/
+	content: none;
+}
+
+/*marking active/completed steps green*/
+/*The number of the step and the connector before it = green*/
+#progressbar .li1.active:before, #progressbar .li2.active:after,
+	#progressbar .li2.active:before, #progressbar .li2.active:after,
+	#progressbar .li3.active:before, #progressbar .li3.active:after,
+	#progressbar .li4.active:before, #progressbar .li4.active:after,
+	#progressbar .li5.active:before, #progressbar .li5.active:after,
+	#progressbar .li6.active:before, #progressbar .li6.active:after {
+	background: #3fb72a;
+	color: white;
+}
+
+/* Not relevant to this form */
+.dme_link {
+	margin-top: 30px;
+	text-align: center;
+}
+
+.dme_link a {
+	background: #FFF;
+	font-weight: bold;
+	color: #3fb72a;
+	border: 0 none;
+	border-radius: 25px;
+	cursor: pointer;
+	padding: 5px 25px;
+	font-size: 12px;
+}
+
+.dme_link a:hover, .dme_link a:focus {
+	background: #C5C5F1;
+	text-decoration: none;
+}

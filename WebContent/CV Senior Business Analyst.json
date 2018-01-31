@@ -1,0 +1,2191 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Hariprasad Venugopal",
+          "GivenName": "Hariprasad",
+          "FamilyName": "Venugopal"
+        },
+        "ContactMethod": [
+          {
+            "Telephone": {
+              "FormattedNumber": "+91 95384 51333"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "venu.hariprasad@rediffmail.com"
+          }
+        ]
+      },
+      "ExecutiveSummary": "✦ Strategic Planning: Proven ability in defining/ aligning strategic financial as well as investment plans to organizational growth objectives\r\n✦ Project Management: Active participant in testing Treasury systems module in test environment for new implementation of Product enhancements\r\n✦ Treasury Management: Adept at maintaining steady cash flow and fund availability for future/ existing business funding requirement by effectively managing working capital utilization, deployed funds and enhanced return on investments for generating adequate liquidity and cash flow\r\n✦ Operations Management: Skilled in business/ operational strategies to market dynamics by evaluating impact of long range planning, implementation of new programs, strategies and regulatory amendments. Highlight critical business issues with potential business impact to the senior management team for effective resolution\r\n✦ Risk Management & Controls: Enhance safety of organizational funds by efficiently managing liquid assets, minimizing currency/ interest rate exposures and maximizing returns from short term investments. Conduct audits and implement effective internal controls based on organizational policies and other statutory regulations\r\n✦ Team Leadership: Skilled in creating and sustaining a dynamic environment that fosters development opportunities and motivates high performance amongst team members\r\n\r\n\r\nKey Accomplishments across Career Span\r\n\r\n\r\n• Successfully migrated portfolios from Euro-clear to Clear stream and conducted UAT - OPICS testing for DUBAI migration in Standard Chartered Bank, India\r\n• Developed Time Saving Macros in Excel Sheets and wrote SQL Queries in Opics Module to Facilitate Data Extraction\r\n• Bagged Silver Award for the successful completion of the data conversion process in MashreqBank\r\n• Star Award for cost saving process done using Euroclear script scheduler method",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Attra Infotech",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Senior Business Analyst - Core Financial Services",
+                "OrgName": {
+                  "OrganizationName": "Attra Infotech"
+                },
+                "OrgInfo": {
+                  "PositionLocation": {
+                    "CountryCode": "IN",
+                    "Region": "KARNATAKA",
+                    "Municipality": "Bangalore"
+                  }
+                },
+                "Description": "Accountabilities:\r\n• Taking care of pre sales activities for Core Banking projects for various global clients\r\n• Strong technical knowledge of the Business Analyst function within Waterfall / Agile methodologies\r\n• Take part in planning and scoping several inter related initiatives which helps the stakeholders\r\n• Handling the development and testing team in parallel to deliver the projects within the TAT\r\n• Manage customer relationships and expectations by developing a communication process to keep others up-to-date on project results\r\n• Act as techno-functional expert and lead or participate in multiple projects by completing and updating project documentation; managing project scope; adjusting schedules when necessary; determining daily priorities; ensuring efficient and on-time delivery of project tasks and milestones; following proper escalation paths; and managing customer and supplier relationships\r\n• Assist the technical sales to liaise with clients, understand the business models and define the implementation project approach.\r\n• Develop and execute test plans (UAT's) basically in T24 Core Banking platform\r\n• Support system conversions, upgrades, enhancements\r\n• Meet with project team regularly to review project deliverables and deadlines\r\n• Actively participated in Vision Plus new application design model\r\n• Involved in various cost estimation & Project plan of a complete testing module of Middle East Banks (Core Banking) along with data migration\r\n• In depth domain knowledge in handling various Treasury systems such as T24, OPICS, Kondor+, Calypso & Murex",
+                "StartDate": {
+                  "YearMonth": "2017-09"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Project Management",
+                    "Comments": "Information Technology describes 27% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "TT",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "TF",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Attra Infotech",
+                    "sov:NormalizedTitle": "Senior Business Analyst Core Financial Services",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Senior Business Analyst",
+                        "Business Analyst - Core Financial Services",
+                        "Business Analyst"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Attra Infotech"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Qatar First Bank",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Project Manager - Treasury Operations (T24",
+                "OrgName": {
+                  "OrganizationName": "Qatar First Bank"
+                },
+                "OrgInfo": {
+                  "PositionLocation": {
+                    "CountryCode": "QA",
+                    "Municipality": "Doha"
+                  }
+                },
+                "Description": "Securities Module)\r\n\r\nAccomplishments:\r\n• Seasonal techno-functional professional with precise requirement gathering and coordination between development and testing teams for bug-free project\r\n• Developed macros in excel for printing bank's financial statements and used mail merge for multiple records\r\n• Create cost benefit analysis to support impact assessments\r\n• Involved in various testing scenarios of T24 Securities (UAT's) and Nostro Reconciliations module\r\n• Developed a complete database of Documents archival details through SharePoint software\r\n• Complete stock of Dividend accounts and Reconciling each accounts on a regular basis\r\n• Active participation in several T24 system implementations in setting up the right standard for the Bank by ensuring adequate controls in the system\r\n• Ensure the team processes adhere to the internal policies and procedures as approved by Compliance\r\n• SWIFT management in East Net systems end to end\r\n• Successful automation of generating Banks various advices and reports through Excel macro and mail merge along with T24 Reporting Module\r\n• Experience in performing upgrades to later releases of core T24 (Release 12 or above preferable), and local developments and customization\r\n• Experience of Migration to T24 OR Development of change projects on T24 for Banking\r\n• Data profiling of key data and design reports (track & monitor) for stakeholders\r\n\r\n\r\nAccountabilities:\r\n• Undertaking a complete inspection of the Requirement Traceability Matrix, Interface and Process Mapping\r\ndocuments for all the modules and raised clarifications for the same\r\n• Been an active participant on all the Walkthrough sessions with the Development team\r\n• Writing various test scripts and test plans depends on the depth of the product\r\n• Lead the team for various UAT testing's related to Securities and Corporate Actions towards successful completion of test scripts\r\n• Complete Knowledge in Islamic Banking products such as Commodity Murabaha and Mudaraba Deposits\r\n• Ensure the new initiatives of the Bank has been approved by Compliance, Sharia and Legal departments\r\n• SIT Methodology - Verification of test cases on the following aspects such as Validation of key business scenarios, toggling data, Labels, LOVs and Report formats\r\n• Test plan & Test design preparation and sign-off\r\n• Testing of MT564 from custodian and MT566 for generating coupon entitlement under Corporate Action Module in T24\r\n• Ensure SWIFT payments such as MT210, 202 and 103's correctly flowing in to East Net system to reach the SWIFT server\r\n• STP for Securities SWIFT messages like MT540, 541,542 and 543 to be checked regularly for its flow from inhouse system to SWIFT via East Net server\r\n• Module sign-off and Test closure\r\n• UAT Methodology - Verification of test cases on the following aspects - Policy Rule & functional validations, Workflow configuration, Product - Scheme setup, Rules setup, Financial Functionalities",
+                "StartDate": {
+                  "YearMonth": "2015-12"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-08"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 32% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SS",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "TT",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Qatar First Bank",
+                    "sov:NormalizedTitle": "Project Manager Treasury Operations T24",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Project Manager - Treasury Operations"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Qatar First Bank"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Standard Chartered Bank",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Unit Head - FI Capital",
+                "OrgName": {
+                  "OrganizationName": "Standard Chartered Bank"
+                },
+                "OrgInfo": {
+                  "PositionLocation": {
+                    "CountryCode": "MY",
+                    "Municipality": "Kuala Lumpur"
+                  }
+                },
+                "Description": "markets and FX/MM (Techno - Functional)\r\nAccomplishments:\r\n• Instrumental in migrating treasury process from India to Malaysia leading to enhanced operational efficiency\r\n\r\nAccountabilities:\r\n• Played key role in developing Funding Sheet for ASG [Asset Securitization Group] desk, Time Saving Macros in Excel Sheets and SQL Queries in Opics Module to enable data extraction\r\n• Prepared & maintained settlement/confirmation workflow for enhancing operational efficiency across areas of operation\r\n• Interacted with internal counterparties, clients and business partners based on business as well as operational requirements\r\n• Defect meeting coordination\r\n• Identified & resolved discrepancies related to settlement of trades. Maintained updated MI and key performance indicators to enable effective decision making by the senior management\r\n• Post live support by simulating the production issues in UAT and retest the same post fix\r\n• Evaluated team performance and rendered productivity enhancement feedback. Organized training sessions for team members based on identified training needs\r\n• Updated business status to the senior management & other stakeholders to enable effective decision making\r\n• Taken the Project Manager role for Fixed Income products at the later part of the tenure in Scope International Standard Chartered Bank, Malaysia additional to Unit Manager role\r\n• Successfully involved in various projects of Standard Chartered Bank, Malaysia in Fixed Income product\r\n• In depth knowledge in OPICS and conducted various testing's related to Fixed Income Bonds\r\n• Completed various testing scenarios of OPICS 2.0 Securities (UAT's) and Nostro Reconciliations modules\r\n• Ensure system training for all end users\r\n• Work with business partner to elicit high-level requirements and capture business needs Clearly articulate and document business requirements",
+                "StartDate": {
+                  "YearMonth": "2013-02"
+                },
+                "EndDate": {
+                  "YearMonth": "2015-11"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 36% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "ST",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SM",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Standard Chartered Bank",
+                    "sov:NormalizedTitle": "Unit Head FI Capital",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Unit Head"
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Senior Officer",
+                "OrgName": {
+                  "OrganizationName": "Debt Capital Markets"
+                },
+                "OrgInfo": {
+                  "PositionLocation": {
+                    "CountryCode": "IN",
+                    "Region": "TAMIL NADU",
+                    "Municipality": "Chennai"
+                  }
+                },
+                "Description": "• Taking care of settlements of BONDS and EQUITIES of Europe, US and other Asian markets\r\n• Played key role in developing Funding Sheet for ASG [Asset Securitization Group] desk, Time Saving Macros in Excel Sheets and SQL Queries in OPICS Module to enable data extraction\r\n• Complete knowledge of Euroclear, Clearstream, Bloomberg, DTS and DTCC\r\n• Handling Position Reconciliation of Bank's books in OPICS\r\n• Successfully migrated a process \"Global Books\" from SCB Singapore to SCB India, Chennai\r\n• End to end process of deals in OPICS core banking systems\r\n• Knowledge of various types of OPICS queue monitoring processes",
+                "StartDate": {
+                  "YearMonth": "2003-11"
+                },
+                "EndDate": {
+                  "YearMonth": "2006-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Mortgage",
+                    "Comments": "Finance describes 44% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "BP",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SK",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Debt Capital Markets",
+                    "sov:NormalizedTitle": "Senior Officer",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Officer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Standard Chartered Bank"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Mashreq Bank",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Manager - Investment Banking",
+                "OrgName": {
+                  "OrganizationName": "Mashreq Bank"
+                },
+                "OrgInfo": {
+                  "PositionLocation": {
+                    "CountryCode": "AE",
+                    "Municipality": "Dubai"
+                  }
+                },
+                "Description": "(T24 Globus & Flexcube)\r\n\r\nAccomplishments:\r\n• Significantly contributed to Mashreq Bank CORE BANKING PROJECT - FLEXCUBE\r\n• Handling the Middle office activities of the Bank\r\n• Regular follow-up's with Treasury and Business on the deals settlement process and rate fixing details\r\n\r\nAccountabilities:\r\n• Maintained updated knowledge of Fixed Income Transaction Bonds, Repo's, CDS, Euro clear & Clear stream, Bloomberg, Reuters, Developed & implemented project related to testing (Euro clear new CCI connectivity - Single Sign Platform & UAT testing) investment products for the new backend system (T24 - R9)\r\n• Assessed limit of traders proprietary trades & equities, Rates desk, Emerging proprietary trades followed by calculating interest rate accruals\r\n• Coordinated asset management activities like MIS reporting, MTM & NAV calculations for funds, distributions of dividends as well as fund administration\r\n• Managed middle office functions like MRM analysis, Nostro coverage for the bank, EOD control checks and cash flow monitoring, Nostro reconciliation through TLM system and Basel reporting II\r\n• Ensured compliance to Reuters, Bloomberg and other financial systems, Central Bank guidelines; ALCO, Credit & Market Risk policies, Sharia 'a principles and guidelines pertaining to day to day operations\r\n• Processing settlement of Fixed Income bonds in Euroclear & Clearstream, systems end-to-end function\r\n• Complete control of Bank's Nostro Reconciliation system\r\n\r\n\r\nEarlier Assignments",
+                "StartDate": {
+                  "YearMonth": "2007-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2013-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Mortgage",
+                    "Comments": "Finance describes 36% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Executive (VP, Dept Head)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SS",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SF",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Mashreq Bank",
+                    "sov:NormalizedTitle": "Manager Investment Banking",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Manager"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Mashreq Bank"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Deutsche Bank",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Team Leader",
+                "OrgName": {
+                  "OrganizationName": "Deutsche Bank"
+                },
+                "Description": "• Handling the Interest Rate Fixing team for Bonds were Deutsche Bank acting as a calculation agent in European markets\r\n• Well versed in the usage of rate pages like LIBOR, EURIBOR, NIBOR etc\r\n• Taking care of Bank entire Nostro outstanding statistics and its reasons to ensure the same resolved on time\r\n• Managing the team and the members one to one's, appraisals and other management activities\r\n• Attending daily Nostro related meetings with Europe counterparts",
+                "StartDate": {
+                  "YearMonth": "2006-05"
+                },
+                "EndDate": {
+                  "YearMonth": "2007-08"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Business Operations and General Business → General Skills and Activities",
+                    "Comments": "Business Operations and General Business describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SS",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "SQ",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Deutsche Bank",
+                    "sov:NormalizedTitle": "Team Leader"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Deutsche Bank"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Orchid Soft Systems",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Technical Instructor - Java",
+                "OrgName": {
+                  "OrganizationName": "Orchid Soft Systems"
+                },
+                "Description": "• Instructing team on Java coding\r\n• Performed few effective projects in Java\r\n\r\n\r\nAddress: #899/4, 72nd Street, 11th Sector, K. K. Nagar, Chennai, Tamil Nadu - 600 078, India\r\nDate of Birth: 8th March 1979 ~ Languages Known: English, Hindi, Tamil and Malayalam ~ References: Available on Request",
+                "StartDate": {
+                  "YearMonth": "2000-12"
+                },
+                "EndDate": {
+                  "YearMonth": "2001-12"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-7",
+                    "sov:CompanyNameProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "Q",
+                        "#text": "Probable"
+                      }
+                    ],
+                    "sov:PositionTitleProbabilityInterpretation": [
+                      {
+                        "@internalUseOnly": "BT",
+                        "#text": "Confident"
+                      }
+                    ],
+                    "sov:NormalizedOrganizationName": "Orchid Soft Systems",
+                    "sov:NormalizedTitle": "Technical Instructor Java",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Technical Instructor"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Orchid Soft Systems"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": {
+              "SchoolName": "St. Peter's Engineering College"
+            },
+            "Degree": {
+              "@degreeType": "bachelors",
+              "DegreeName": "BE",
+              "DegreeDate": {
+                "Year": "2000"
+              },
+              "DegreeMajor": {
+                "Name": [
+                  "Production"
+                ]
+              },
+              "DatesOfAttendance": {
+                "StartDate": {
+                  "AnyDate": "notKnown"
+                },
+                "EndDate": {
+                  "Year": "2000"
+                }
+              },
+              "Comments": "• BE (Production), St. Peter's Engineering College (2000)",
+              "UserArea": {
+                "sov:DegreeUserArea": {
+                  "sov:Id": "DEG-1",
+                  "sov:NormalizedDegreeName": "bachelors",
+                  "sov:NormalizedDegreeType": "bachelors"
+                }
+              }
+            },
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "St Peters Engineering College"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "PRINCE2 certified",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS; matched to list"
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Awarded for successful automation project of Rate fix in Deutsche Bank"
+          },
+          {
+            "Description": "Silver Award for the successful completion of the data conversion process in Mashreq Bank"
+          },
+          {
+            "Description": "Bagged Silver Award for the successful completion of the data conversion process in MashreqBank"
+          },
+          {
+            "Description": "Star Award for cost saving process done using Euroclear script scheduler method"
+          },
+          {
+            "Description": "Taking care of Bank entire Nostro outstanding statistics and its reasons to ensure the same resolved on time"
+          }
+        ]
+      },
+      "RevisionDate": "2018-01-11"
+    },
+    "NonXMLResume": {
+      "TextResume": "Hariprasad Venugopal   Location: Bangalore - India | Contact: +91 95384 51333   Email: venu.hariprasad@rediffmail.com\r\n\r\n\r\nSenior Management: Banking\r\n\r\nQualified senior professional with over 15 years of experience in the treasury & finance domain across diverse international locations. Proficient in working on Application Packages like OPICS (Standard Chartered Bank), SPIDER (Deutsche Bank), T24 GLOBUS (Mashreq Bank) Bloomberg, SC STAR for Swift Messages and testing tool such as JIRA, Selenium and inhouse (Attra Infotech) Reconciliation automation tool (Excel Macro).Detail-oriented professional with excellent writing, editing, time management, research, content management, analytical and problem-solving, organizational, collaboration and technology skills such as Microsoft Office, SharePoint and Mail Merge.\r\n\r\n\r\n~ \"Star Award\" for successful migration of Global Books transactions from SCB Singapore to SCB India and implementing cost reduction project on Euro clear reports using Euclid Script Scheduler in Mashreq Bank ~\r\n~ Awarded for successful automation project of Rate fix in Deutsche Bank ~\r\n~ Silver Award for the successful completion of the data conversion process in Mashreq Bank ~\r\n~ Automated the Nostro Reconciliation of Qatar First Bank using Microsoft Excel ~\r\n~ Developed the automated testing tool in Attra for Bank GL account Reconciliation ~\r\n\r\n\r\nGLOBAL SPAN: INDIA | UAE | QATAR | MALAYSIA\r\n\r\nExpertise in\r\n\r\n\r\n• Treasury Settlements (FX,MM & Bonds)\r\n• Business Planning & Monitoring\r\n• Core Banking Implementation\r\n• Compliance Management\r\n• Risk Management & Mitigation\r\n• Gap Analysis\r\n• Project Management\r\n• UAT Testing's\r\n• SWIFT Management\r\n\r\nEducation\r\n\r\n\r\n• BE (Production), St. Peter's Engineering College (2000)\r\n\r\nAccreditation\r\n\r\n\r\n• PRINCE2 certified (Foundation & Practitioner)\r\n• Java Selenium, CRM training\r\n• CMA, (pursuing)\r\n• MS Office tools, Macros\r\n• CBAP (pursuing) - Reg.member of IIBA\r\n• Blockchain Conference\r\n\r\nExecutive Summary\r\n\r\n\r\n✦ Strategic Planning: Proven ability in defining/ aligning strategic financial as well as investment plans to organizational growth objectives\r\n✦ Project Management: Active participant in testing Treasury systems module in test environment for new implementation of Product enhancements\r\n✦ Treasury Management: Adept at maintaining steady cash flow and fund availability for future/ existing business funding requirement by effectively managing working capital utilization, deployed funds and enhanced return on investments for generating adequate liquidity and cash flow\r\n✦ Operations Management: Skilled in business/ operational strategies to market dynamics by evaluating impact of long range planning, implementation of new programs, strategies and regulatory amendments. Highlight critical business issues with potential business impact to the senior management team for effective resolution\r\n✦ Risk Management & Controls: Enhance safety of organizational funds by efficiently managing liquid assets, minimizing currency/ interest rate exposures and maximizing returns from short term investments. Conduct audits and implement effective internal controls based on organizational policies and other statutory regulations\r\n✦ Team Leadership: Skilled in creating and sustaining a dynamic environment that fosters development opportunities and motivates high performance amongst team members\r\n\r\n\r\nKey Accomplishments across Career Span\r\n\r\n\r\n• Successfully migrated portfolios from Euro-clear to Clear stream and conducted UAT - OPICS testing for DUBAI migration in Standard Chartered Bank, India\r\n• Developed Time Saving Macros in Excel Sheets and wrote SQL Queries in Opics Module to Facilitate Data Extraction\r\n• Bagged Silver Award for the successful completion of the data conversion process in MashreqBank\r\n• Star Award for cost saving process done using Euroclear script scheduler method\r\nProfessional Experience\r\n\r\n\r\nAttra Infotech, Bangalore - India  •  Sep 2017 Onwards\r\nSenior Business Analyst - Core Financial Services\r\nAccountabilities:\r\n• Taking care of pre sales activities for Core Banking projects for various global clients\r\n• Strong technical knowledge of the Business Analyst function within Waterfall / Agile methodologies\r\n• Take part in planning and scoping several inter related initiatives which helps the stakeholders\r\n• Handling the development and testing team in parallel to deliver the projects within the TAT\r\n• Manage customer relationships and expectations by developing a communication process to keep others up-to-date on project results\r\n• Act as techno-functional expert and lead or participate in multiple projects by completing and updating project documentation; managing project scope; adjusting schedules when necessary; determining daily priorities; ensuring efficient and on-time delivery of project tasks and milestones; following proper escalation paths; and managing customer and supplier relationships\r\n• Assist the technical sales to liaise with clients, understand the business models and define the implementation project approach.\r\n• Develop and execute test plans (UAT's) basically in T24 Core Banking platform\r\n• Support system conversions, upgrades, enhancements\r\n• Meet with project team regularly to review project deliverables and deadlines\r\n• Actively participated in Vision Plus new application design model\r\n• Involved in various cost estimation & Project plan of a complete testing module of Middle East Banks (Core Banking) along with data migration\r\n• In depth domain knowledge in handling various Treasury systems such as T24, OPICS, Kondor+, Calypso & Murex\r\n\r\n\r\nQatar First Bank, Doha - Qatar  •  Dec 2015 - Aug 2017\r\nProject Manager - Treasury Operations (T24 - Securities Module)\r\n\r\nAccomplishments:\r\n• Seasonal techno-functional professional with precise requirement gathering and coordination between development and testing teams for bug-free project\r\n• Developed macros in excel for printing bank's financial statements and used mail merge for multiple records\r\n• Create cost benefit analysis to support impact assessments\r\n• Involved in various testing scenarios of T24 Securities (UAT's) and Nostro Reconciliations module\r\n• Developed a complete database of Documents archival details through SharePoint software\r\n• Complete stock of Dividend accounts and Reconciling each accounts on a regular basis\r\n• Active participation in several T24 system implementations in setting up the right standard for the Bank by ensuring adequate controls in the system\r\n• Ensure the team processes adhere to the internal policies and procedures as approved by Compliance\r\n• SWIFT management in East Net systems end to end\r\n• Successful automation of generating Banks various advices and reports through Excel macro and mail merge along with T24 Reporting Module\r\n• Experience in performing upgrades to later releases of core T24 (Release 12 or above preferable), and local developments and customization\r\n• Experience of Migration to T24 OR Development of change projects on T24 for Banking\r\n• Data profiling of key data and design reports (track & monitor) for stakeholders\r\n\r\n\r\nAccountabilities:\r\n• Undertaking a complete inspection of the Requirement Traceability Matrix, Interface and Process Mapping\r\ndocuments for all the modules and raised clarifications for the same\r\n• Been an active participant on all the Walkthrough sessions with the Development team\r\n• Writing various test scripts and test plans depends on the depth of the product\r\n• Lead the team for various UAT testing's related to Securities and Corporate Actions towards successful completion of test scripts\r\n• Complete Knowledge in Islamic Banking products such as Commodity Murabaha and Mudaraba Deposits\r\n• Ensure the new initiatives of the Bank has been approved by Compliance, Sharia and Legal departments\r\n• SIT Methodology - Verification of test cases on the following aspects such as Validation of key business scenarios, toggling data, Labels, LOVs and Report formats\r\n• Test plan & Test design preparation and sign-off\r\n• Testing of MT564 from custodian and MT566 for generating coupon entitlement under Corporate Action Module in T24\r\n• Ensure SWIFT payments such as MT210, 202 and 103's correctly flowing in to East Net system to reach the SWIFT server\r\n• STP for Securities SWIFT messages like MT540, 541,542 and 543 to be checked regularly for its flow from inhouse system to SWIFT via East Net server\r\n• Module sign-off and Test closure\r\n• UAT Methodology - Verification of test cases on the following aspects - Policy Rule & functional validations, Workflow configuration, Product - Scheme setup, Rules setup, Financial Functionalities\r\n\r\nStandard Chartered Bank, Kuala Lumpur - Malaysia  •  Feb 2013 - Nov 2015\r\nUnit Head - FI Capital markets and FX/MM (Techno - Functional)\r\nAccomplishments:\r\n• Instrumental in migrating treasury process from India to Malaysia leading to enhanced operational efficiency\r\n\r\nAccountabilities:\r\n• Played key role in developing Funding Sheet for ASG [Asset Securitization Group] desk, Time Saving Macros in Excel Sheets and SQL Queries in Opics Module to enable data extraction\r\n• Prepared & maintained settlement/confirmation workflow for enhancing operational efficiency across areas of operation\r\n• Interacted with internal counterparties, clients and business partners based on business as well as operational requirements\r\n• Defect meeting coordination\r\n• Identified & resolved discrepancies related to settlement of trades. Maintained updated MI and key performance indicators to enable effective decision making by the senior management\r\n• Post live support by simulating the production issues in UAT and retest the same post fix\r\n• Evaluated team performance and rendered productivity enhancement feedback. Organized training sessions for team members based on identified training needs\r\n• Updated business status to the senior management & other stakeholders to enable effective decision making\r\n• Taken the Project Manager role for Fixed Income products at the later part of the tenure in Scope International Standard Chartered Bank, Malaysia additional to Unit Manager role\r\n• Successfully involved in various projects of Standard Chartered Bank, Malaysia in Fixed Income product\r\n• In depth knowledge in OPICS and conducted various testing's related to Fixed Income Bonds\r\n• Completed various testing scenarios of OPICS 2.0 Securities (UAT's) and Nostro Reconciliations modules\r\n• Ensure system training for all end users\r\n• Work with business partner to elicit high-level requirements and capture business needs Clearly articulate and document business requirements\r\n\r\n\r\nMashreq Bank, Dubai - UAE  •  Aug 2007 - Feb 2013\r\nManager - Investment Banking (T24 Globus & Flexcube)\r\n\r\nAccomplishments:\r\n• Significantly contributed to Mashreq Bank CORE BANKING PROJECT - FLEXCUBE\r\n• Handling the Middle office activities of the Bank\r\n• Regular follow-up's with Treasury and Business on the deals settlement process and rate fixing details\r\n\r\nAccountabilities:\r\n• Maintained updated knowledge of Fixed Income Transaction Bonds, Repo's, CDS, Euro clear & Clear stream, Bloomberg, Reuters, Developed & implemented project related to testing (Euro clear new CCI connectivity - Single Sign Platform & UAT testing) investment products for the new backend system (T24 - R9)\r\n• Assessed limit of traders proprietary trades & equities, Rates desk, Emerging proprietary trades followed by calculating interest rate accruals\r\n• Coordinated asset management activities like MIS reporting, MTM & NAV calculations for funds, distributions of dividends as well as fund administration\r\n• Managed middle office functions like MRM analysis, Nostro coverage for the bank, EOD control checks and cash flow monitoring, Nostro reconciliation through TLM system and Basel reporting II\r\n• Ensured compliance to Reuters, Bloomberg and other financial systems, Central Bank guidelines; ALCO, Credit & Market Risk policies, Sharia 'a principles and guidelines pertaining to day to day operations\r\n• Processing settlement of Fixed Income bonds in Euroclear & Clearstream, systems end-to-end function\r\n• Complete control of Bank's Nostro Reconciliation system\r\n\r\n\r\nEarlier Assignments\r\n\r\n\r\nDeutsche Bank, India  •   Team Leader  •   May 2006 - Aug 2007\r\n\r\n• Handling the Interest Rate Fixing team for Bonds were Deutsche Bank acting as a calculation agent in European markets\r\n• Well versed in the usage of rate pages like LIBOR, EURIBOR, NIBOR etc\r\n• Taking care of Bank entire Nostro outstanding statistics and its reasons to ensure the same resolved on time\r\n• Managing the team and the members one to one's, appraisals and other management activities\r\n• Attending daily Nostro related meetings with Europe counterparts\r\n\r\n\r\nStandard Chartered Bank, India  •   Senior Officer (Debt Capital Markets)  •   Nov 2003 - May 2006\r\n\r\n• Taking care of settlements of BONDS and EQUITIES of Europe, US and other Asian markets\r\n• Played key role in developing Funding Sheet for ASG [Asset Securitization Group] desk, Time Saving Macros in Excel Sheets and SQL Queries in OPICS Module to enable data extraction\r\n• Complete knowledge of Euroclear, Clearstream, Bloomberg, DTS and DTCC\r\n• Handling Position Reconciliation of Bank's books in OPICS\r\n• Successfully migrated a process \"Global Books\" from SCB Singapore to SCB India, Chennai\r\n• End to end process of deals in OPICS core banking systems\r\n• Knowledge of various types of OPICS queue monitoring processes\r\n\r\n\r\nOrchid Soft Systems, India  •   Technical Instructor - Java  •   Dec 2000 - Dec 2001\r\n\r\n• Instructing team on Java coding\r\n• Performed few effective projects in Java\r\n\r\n\r\nAddress: #899/4, 72nd Street, 11th Sector, K. K. Nagar, Chennai, Tamil Nadu - 600 078, India\r\nDate of Birth: 8th March 1979 ~ Languages Known: English, Hindi, Tamil and Malayalam ~ References: Available on Request"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": "1979-03-08"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Hariprasad Venugopal's experience appears to be somewhat concentrated in Information Technology (mostly QA and QC), and slightly concentrated in Finance (mostly Financial Planning & Analysis). Hariprasad Venugopal has 15 years of work experience, with 9 years of management experience, including a mid-level position.",
+          "sov:MonthsOfWorkExperience": "182",
+          "sov:AverageMonthsPerEmployer": "30",
+          "sov:FulltimeDirectHirePredictiveIndex": "85",
+          "sov:MonthsOfManagementExperience": "102",
+          "sov:HighestManagementScore": "55",
+          "sov:ExecutiveType": "financial",
+          "sov:ManagementStory": "The following management-related items were found:\r\nDeutsche Bank, India  •   Team Leader  •   May 2006\r\n\r\nStarting on 12/1/2015, the candidate held the following low-level management position for 21 months:\r\n\tTitle: Project Manager - Treasury Operations (T24 for Qatar First Bank\r\nStarting on 8/1/2007, the candidate held the following mid-level management position for 5 years and 7 months:\r\n\tTitle: Manager - Investment Banking for Mashreq Bank\r\nStarting on 5/1/2006, the candidate held the following low-level management position for 15 months:\r\n\tTitle: Team Leader for Deutsche Bank",
+          "sov:AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (Project Manager - Treasury Operations (T24 for Qatar First Bank) , but was not in management in the most recent role as Senior Business Analyst - Core Financial Services for Attra Infotech.",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "29",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "44",
+                        "sov:Skill": [
+                          {
+                            "@name": "SELENIUM",
+                            "@id": "2000001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "TEST PLAN",
+                            "@id": "009449",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "UAT",
+                            "@id": "010065",
+                            "@existsInText": "true",
+                            "@totalMonths": "121",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2; POS-3; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA CONVERSION",
+                            "@id": "014977",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA MIGRATION",
+                            "@id": "014990",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATABASES",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "21",
+                            "@childrenLastUsed": "2017-08-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "21",
+                                "@lastUsed": "2017-08-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MAPPING",
+                            "@id": "021223",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "64",
+                            "@lastUsed": "2015-11-30",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3; POS-6"
+                          },
+                          {
+                            "@name": "SQL QUERIES",
+                            "@id": "3404001",
+                            "@existsInText": "true",
+                            "@totalMonths": "64",
+                            "@lastUsed": "2015-11-30",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRINCE2",
+                            "@id": "0216663",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "PROJECT MANAGEMENT",
+                            "@id": "0216662",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "PROJECT MANAGER",
+                            "@id": "022909",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "PROJECT PLAN",
+                            "@id": "024323",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS REQUIREMENTS",
+                            "@id": "022626",
+                            "@existsInText": "true",
+                            "@totalMonths": "34",
+                            "@lastUsed": "2015-11-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "CODING",
+                            "@id": "013739",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2001-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          },
+                          {
+                            "@name": "SWIFT",
+                            "@id": "3391144",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Workflow and Imaging",
+                        "@id": "342",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "WORKFLOW",
+                            "@id": "024213",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "APPLICATION DESIGN",
+                            "@id": "021547",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "REQUIREMENT GATHERING",
+                            "@id": "006830",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MIGRATION",
+                            "@id": "5530953",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATA PROFILING",
+                            "@id": "5530957",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial",
+                        "@id": "350",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "FLEXCUBE",
+                            "@id": "017665",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2001-12-01",
+                            "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SHAREPOINT",
+                            "@id": "022195",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT SHAREPOINT",
+                            "@id": "5540951",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "21",
+                            "@childrenLastUsed": "2017-08-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SHAREPOINT",
+                                "@id": "554095101",
+                                "@existsInText": "true",
+                                "@totalMonths": "21",
+                                "@lastUsed": "2017-08-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "CRM",
+                            "@id": "014101",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MS OFFICE",
+                            "@id": "022137",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "19",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "LONG RANGE PLANNING",
+                            "@id": "7000134",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "022800",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-6"
+                          },
+                          {
+                            "@name": "RECONCILIATIONS",
+                            "@id": "006625",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "080204",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RISK MANAGEMENT",
+                                "@id": "007100",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "FIXED INCOME",
+                            "@id": "023108",
+                            "@existsInText": "true",
+                            "@totalMonths": "100",
+                            "@lastUsed": "2015-11-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-3; POS-4",
+                            "@childrenTotalMonths": "34",
+                            "@childrenLastUsed": "2015-11-30",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CAPITAL MARKETS",
+                                "@id": "012564",
+                                "@existsInText": "true",
+                                "@totalMonths": "34",
+                                "@lastUsed": "2015-11-30",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mortgage",
+                        "@id": "233",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "EQUITIES",
+                            "@id": "024697",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Broker",
+                        "@id": "244",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "SECURITIES",
+                            "@id": "023212",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Securities",
+                        "@id": "236",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "080195",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "SECURITIZATION",
+                            "@id": "007675",
+                            "@existsInText": "true",
+                            "@totalMonths": "64",
+                            "@lastUsed": "2015-11-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-3; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "245",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "CASH FLOW",
+                            "@id": "012605",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "STRATEGIC PLANNING",
+                            "@id": "023034",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Trading",
+                        "@id": "239",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL SERVICES",
+                            "@id": "017478",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Lending",
+                        "@id": "234",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "CMA",
+                            "@id": "013566",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "080208",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "RECONCILING",
+                            "@id": "026516",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "TREASURY MANAGEMENT",
+                            "@id": "009920",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSET MANAGEMENT",
+                            "@id": "004809",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internal Audit",
+                        "@id": "706",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "CMA",
+                            "@id": "7000054",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "FINANCIAL STATEMENTS",
+                            "@id": "7000060",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounting",
+                        "@id": "705",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "CMA",
+                            "@id": "7000301",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "FINANCIAL STATEMENTS",
+                            "@id": "7000305",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "CAPITAL MARKETS",
+                            "@id": "7000001",
+                            "@existsInText": "true",
+                            "@totalMonths": "34",
+                            "@lastUsed": "2015-11-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management",
+                        "@id": "241",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SETTLEMENTS",
+                            "@id": "025509",
+                            "@existsInText": "true",
+                            "@totalMonths": "30",
+                            "@lastUsed": "2006-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "7000021",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Investor Relations",
+                        "@id": "704",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "7000029",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Real Estate & Facilities",
+                        "@id": "710",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROJECT MANAGEMENT",
+                            "@id": "7000113",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "9",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "59",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@totalMonths": "87",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2; POS-4"
+                          },
+                          {
+                            "@name": "OPERATIONS MANAGEMENT",
+                            "@id": "024470",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "022750",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RISK MANAGEMENT",
+                                "@id": "007099",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "41",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022227",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "006624",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-6"
+                          },
+                          {
+                            "@name": "STATISTICS",
+                            "@id": "008585",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2007-08-01",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "9",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@totalMonths": "85",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2; POS-3; POS-6"
+                          },
+                          {
+                            "@name": "MICROSOFT EXCEL",
+                            "@id": "024810",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "85",
+                            "@childrenLastUsed": "2017-08-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "EXCEL",
+                                "@id": "016997",
+                                "@existsInText": "true",
+                                "@totalMonths": "85",
+                                "@lastUsed": "2017-08-31",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2; POS-3; POS-6"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MICROSOFT OFFICE",
+                            "@id": "024467",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS OFFICE",
+                                "@id": "022136",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in CERTIFICATIONS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Reconciliations",
+                        "@id": "257",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "48",
+                        "sov:Skill": [
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "081000",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-6"
+                          },
+                          {
+                            "@name": "RECONCILIATIONS",
+                            "@id": "023971",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "RECONCILING",
+                            "@id": "026515",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management",
+                        "@id": "960",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "080997",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounts Receivable",
+                        "@id": "940",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022226",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Reporting",
+                        "@id": "962",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL STATEMENTS",
+                            "@id": "022749",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounts Payable",
+                        "@id": "933",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "PAYMENTS",
+                            "@id": "004363",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Auditing",
+                        "@id": "942",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUDIT",
+                            "@id": "005584",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "AUDITS",
+                                "@id": "005789",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "256",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "CMA",
+                            "@id": "013567",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "CPA",
+                        "@id": "950",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTERNAL CONTROLS",
+                            "@id": "020027",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "83",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK MANAGEMENT",
+                            "@id": "007098",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "TEST CASES",
+                            "@id": "009422",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "TEST DESIGN",
+                            "@id": "009430",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "TEST PLANS",
+                            "@id": "009451",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-2"
+                          },
+                          {
+                            "@name": "UAT TESTING",
+                            "@id": "010066",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "941",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEST SCRIPTS",
+                            "@id": "022241",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "80",
+                        "sov:Skill": [
+                          {
+                            "@name": "CALYPSO",
+                            "@id": "026564",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "COST ESTIMATION",
+                            "@id": "025926",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "ESTIMATION",
+                            "@id": "080470",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "OPERATIONS MANAGEMENT",
+                            "@id": "024471",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "TEST PLANS",
+                            "@id": "024205",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "TOPO",
+                            "@id": "023035",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "21",
+                            "@childrenLastUsed": "2017-08-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MAPPING",
+                                "@id": "021224",
+                                "@existsInText": "true",
+                                "@totalMonths": "21",
+                                "@lastUsed": "2017-08-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Bookkeeping, Office Management",
+                    "@id": "89",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookeeping Tasks",
+                        "@id": "533",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022229",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "022801",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "HR Analytics",
+                        "@id": "577",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "96",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA EXTRACTION",
+                            "@id": "9000117",
+                            "@existsInText": "true",
+                            "@totalMonths": "64",
+                            "@lastUsed": "2015-11-30",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Talent Sourcing",
+                        "@id": "583",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "CUSTOMER RELATIONSHIP MANAGEMENT",
+                            "@id": "9000267",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CRM",
+                                "@id": "9000268",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in CERTIFICATIONS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "67",
+                        "sov:Skill": [
+                          {
+                            "@name": "SALES ACTIVITIES",
+                            "@id": "030672",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Account Management",
+                        "@id": "104",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "33"
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Legal",
+                    "@id": "12",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Corporate",
+                        "@id": "727",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "SECURITIES",
+                            "@id": "7270004",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Litigation",
+                        "@id": "400",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "SECURITIES",
+                            "@id": "200084",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Computer Related",
+                        "@id": "115",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAIL MERGE",
+                            "@id": "021066",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Admin",
+                        "@id": "113",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRINTING",
+                            "@id": "005446",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2017-08-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Banking and Related",
+                    "@id": "81",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Credit",
+                        "@id": "121",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "76",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "014614",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2013-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Check Operations",
+                        "@id": "124",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "BANKING SYSTEMS",
+                            "@id": "010237",
+                            "@existsInText": "true",
+                            "@totalMonths": "30",
+                            "@lastUsed": "2006-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Knowledge and Learning Management",
+                    "@id": "92",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Knowledge and Learning Management",
+                        "@id": "903",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRAINING",
+                            "@id": "200064",
+                            "@existsInText": "true",
+                            "@totalMonths": "34",
+                            "@lastUsed": "2015-11-30",
+                            "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Management",
+                    "@id": "80",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Budget Related",
+                        "@id": "516",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "88",
+                        "sov:Skill": [
+                          {
+                            "@name": "COST ESTIMATION",
+                            "@id": "025927",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "ESTIMATION",
+                            "@id": "016952",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations and Admin",
+                        "@id": "518",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS MANAGEMENT",
+                            "@id": "024472",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Specs and Documentation",
+                        "@id": "429",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DOCUMENTATION",
+                            "@id": "022620",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "PROJECT DOCUMENTATION",
+                            "@id": "005804",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Construction Non-Laborer",
+                    "@id": "22",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Estimating",
+                        "@id": "380",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "COST ESTIMATION",
+                            "@id": "025925",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "ESTIMATION",
+                            "@id": "023407",
+                            "@existsInText": "true",
+                            "@totalMonths": "4",
+                            "@lastUsed": "2018-01-11",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Aptitudes",
+                        "@id": "532",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARTICULATE",
+                            "@id": "031025",
+                            "@existsInText": "true",
+                            "@totalMonths": "34",
+                            "@lastUsed": "2015-11-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Nursing",
+                    "@id": "99",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Billing and Coding",
+                        "@id": "421",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "70",
+                        "sov:Skill": [
+                          {
+                            "@name": "CODING",
+                            "@id": "023717",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2001-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other Asst",
+                        "@id": "455",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "30",
+                        "sov:Skill": [
+                          {
+                            "@name": "CMA",
+                            "@id": "014824",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Training",
+                    "@id": "64",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "361",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUCTOR",
+                            "@id": "019876",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2001-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "30",
+              "@ends": "34",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "35",
+              "@ends": "44",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Accreditation"
+            },
+            {
+              "@starts": "45",
+              "@ends": "62",
+              "@sectionType": "SUMMARY",
+              "#text": "Executive Summary"
+            },
+            {
+              "@starts": "63",
+              "@ends": "189",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Professional Experience"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Contact: +91 95384 51333",
+              "+91 95384 51333"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Hariprasad Venugopal",
+              "Hariprasad Venugopal   Location: Bangalore - India | Contact: +91 95384 51333   Email: venu.hariprasad@rediffmail.com"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": "venu.hariprasad@rediffmail.com"
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": "Date of Birth: 8th March 1979"
+          }
+        },
+        "sov:ParsedTextLength": "13705",
+        "sov:ParseTime": "937",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": {
+              "sov:Level": "Data Missing",
+              "sov:Findings": {
+                "sov:Information": "A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+              }
+            }
+          }
+        },
+        "sov:LicenseSerialNumber": "EU:Sovren EU Test:20180111084911126:35175813-95d9-40cc-a28a-c5bdb5b0c54a",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "8.3.0.0",
+        "sov:DigitalSignature": "uElT71ACBXpyV/hB06JXHzOSWqeIFuIk4FPdQEwBBJaq1D1xvVJT5uUe3MWrzfc0TMSBYXkMN+T8kH3x5FvkOg=="
+      }
+    }
+  }
+}

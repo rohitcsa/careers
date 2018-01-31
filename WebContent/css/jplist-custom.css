@@ -1,0 +1,214 @@
+.block {
+	width: 840px
+}
+
+.header {
+	font-size: 20px;
+}
+
+.title {
+	font-size: 16px;
+	color: #000;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+.desc {
+	font-size: 16px;
+	color: #000;
+	margin-bottom: 10px;
+}
+
+.username {
+	font-size: 19px;
+	color: #004d99;
+	font-weight: bold;
+}
+
+.useremail {
+	font-size: 16px;
+}
+
+.userphone {
+	font-size: 16px;
+}
+
+.company {
+	font-size: 18px;
+	color: #004d99;
+}
+
+.usercompany {
+	font-size: 19px;
+	color: #004d99;
+}
+
+.userjobtitle {
+	font-size: 18px;
+	color: #004d99;
+}
+
+.location {
+	font-size: 16px;
+}
+
+.country {
+	font-size: 16px;
+}
+
+.pincode {
+	font-size: 16px;
+}
+
+.industry {
+	font-size: 16px;
+}
+
+.exp {
+	font-size: 16px;
+}
+
+.skills {
+	font-size: 16px;
+}
+
+.userlocation {
+	font-size: 18px;
+}
+
+.usercountry {
+	font-size: 18px;
+}
+
+.userpincode {
+	font-size: 18px;
+}
+
+.userindustry {
+	font-size: 18px;
+}
+
+.userexp {
+	font-size: 18px;
+}
+
+.userskills {
+	font-size: 18px;
+}
+
+.usereducation1 {
+	font-size: 18px;
+}
+
+.usereducation2 {
+	font-size: 18px;
+}
+
+.userconnections {
+	font-size: 18px;
+}
+
+.usermembersince {
+	font-size: 18px;
+}
+
+.jobstatus {
+	font-size: 18px;
+}
+
+.jobapply {
+	font-size: 18px;
+}
+
+.tags {
+	font-size: 14px;
+}
+
+.jobdescription {
+	font-size: 16px;
+	display: inline-block;
+	width: 700px;
+}
+
+.companyinfo {
+	font-size: 16px;
+	display: inline-block;
+	width: 700px;
+}
+
+.createdby {
+	font-size: 16px;
+}
+
+.jobcode {
+	color: #440e00
+}
+
+.usercode {
+	color: #440e00;
+	margin-top: 10px;
+}
+
+.date {
+	color: #440e00
+}
+
+.maindetails {
+	display: inline;
+	font-size: 16px;
+}
+
+.maindetailsbig {
+	display: inline;
+	font-size: 18px;
+}
+
+.maindetailscolored {
+	color: #004d99;
+	display: inline;
+	font-size: 16px;
+}
+
+.maindetailscoloredbig {
+	color: #004d99;
+	display: inline;
+	font-size: 19px;
+}
+
+.like, .keywords {
+	color: #440e00
+}
+
+.price {
+	color: #17161b
+}
+
+.demo-tbl {
+	background: #fff;
+	width: 100%;
+	border-collapse: collapse;
+	border-right: 1px solid #dbdbdb;
+	border-bottom: 1px solid #dbdbdb;
+	margin-top: 60px;
+}
+
+.demo-tbl td, .demo-tbl th {
+	border-left: 1px solid #dbdbdb;
+	border-top: 1px solid #dbdbdb;
+	vertical-align: top;
+	padding: 15px
+}
+
+.demo-tbl p {
+	margin: 0;
+	padding: 0 15px 5px 0
+}
+
+.demo-tbl .odd {
+	background: transparent;
+}
+
+.demo-tbl .even {
+	background: #f9f9f9;
+}

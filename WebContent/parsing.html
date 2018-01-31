@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Jubilant Careers</title>
+</head>
+
+<link
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+	rel="stylesheet" type="text/css" />
+
+<link href="css/custom.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<body
+	style="width: 100%; background-image: url(images/back.jpg); background-repeat: no-repeat; background-size: cover;">
+	<!-- 
+	<div class="row"
+		style="width: 100%; background: #ffffff; position: fixed; top: 0; margin-right: 0; margin-left: 0;">
+		<div class="col-md-12">
+			<img src="images/jubl_logo.png"
+				style="margin-top: 10px; margin-bottom: 10px;" height="60px">
+
+		</div>
+	</div> -->
+	<div class="row" style="margin-right: 0; margin-left: 0;">
+		<div class="col-md-12">
+			<form id="msform">
+				<!-- progressbar -->
+				<ul id="progressbar">
+					
+					<li class="li2">Upload Attachments</li>
+					<li class="li3">Biographical Details</li>
+					<li class="li4">Educational Details</li>
+					<li class="li5">Prior Work Experience Details</li>
+					
+				</ul>
+				<!-- fieldsets -->
+				
+				<fieldset>
+					<h2 class="fs-title">Upload Résumé</h2>
+					<h3 class="fs-subtitle">Please upload your résumé.</h3>
+
+					<div id="dropzone"
+						style="min-height: 150px; cursor: pointer; border: 2px dashed #0087F7; background: #eee; border-radius: 40px; background: white;">
+						<div style="margin-top: 50px; font-family: inherit;">
+							Drop files here or click to upload.<br /> <span
+								style="font-weight: bold;">(This is just a demo. Selected
+								files are actually uploaded.) </span>
+						</div>
+					</div>
+					<input type="button" name="next" class="next action-button"onclick="show_result();"
+						value="Next" />
+				</fieldset>
+				<fieldset id="parse">
+					
+				</fieldset>
+				<fieldset>
+					<h2 class="fs-title">Educational Details</h2>
+					<h3 class="fs-subtitle">Fill you educational details.</h3>
+					<input type="text" name="twitter" placeholder="Field 1" /> <input
+						type="text" name="facebook" placeholder="Field 2" /> <input
+						type="text" name="gplus" placeholder="Field 3" /> <input
+						type="button" name="previous"
+						class="previous action-button-previous" value="Previous" /> <input
+						type="button" name="next" class="next action-button" value="Next" />
+				</fieldset>
+				<fieldset>
+					<h2 class="fs-title">Prior Work Experience Details</h2>
+					<h3 class="fs-subtitle">Fill your prior work experience
+						details in reverse order.</h3>
+					<input type="text" name="twitter" placeholder="Twitter" /> <input
+						type="text" name="facebook" placeholder="Facebook" /> <input
+						type="text" name="gplus" placeholder="Google Plus" /> <input
+						type="button" name="previous"
+						class="previous action-button-previous" value="Previous" /> <input
+						type="button" name="next" class="next action-button" value="Next" />
+				</fieldset>
+				<fieldset>
+					<h2 class="fs-title">References</h2>
+					<h3 class="fs-subtitle">Please fill references and other
+						details.</h3>
+					<input type="text" name="twitter" placeholder="Field 1" /> <input
+						type="text" name="facebook" placeholder="Field 2" /> <input
+						type="text" name="gplus" placeholder="Field 3" /> <input
+						type="button" name="previous"
+						class="previous action-button-previous" value="Previous" /> <input
+						type="submit" name="submit" class="submit action-button"
+						value="Submit" />
+				</fieldset>
+			</form>
+		</div>
+	</div>
+	<div class="row"
+		style="width: 100%; background: #ffffff9e; position: fixed; bottom: 0; margin-right: 0; margin-left: 0;">
+		<div class="col-md-12" style="" align="center">
+			<button
+				style="width: 140px; background: #31708f; font-weight: bold; color: white; border: 0 none; border-radius: 25px; cursor: pointer; padding: 10px 5px; margin-top: 12px; margin-bottom: 12px; margin-right: 20px;">
+				<i class="fa fa-save"></i>&nbsp;&nbsp;Save As Draft
+			</button>
+			<button
+				style="width: 140px; background: #31708f9c; font-weight: bold; color: white; border: 0 none; border-radius: 25px; cursor: pointer; padding: 10px 5px; margin-top: 12px; margin-bottom: 12px;">
+				<i class="fa fa-sign-out"></i>&nbsp;&nbsp;Quit
+			</button>
+		</div>
+	</div>
+
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+	<script
+		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+	<script src="js/dropzone.js"></script>
+<script src="js/kendo.all.min.js"></script>
+	<script>
+		//jQuery time
+	
+		var current_fs, next_fs, previous_fs; //fieldsets
+		var left, opacity, scale; //fieldset properties which we will animate
+		var animating; //flag to prevent quick multi-click glitches
+
+		//$.backstretch("images/back.jpg");
+
+		$(".next").click(
+				function() {
+					if (animating)
+						return false;
+					animating = true;
+
+					current_fs = $(this).parent();
+					next_fs = $(this).parent().next();
+
+					//activate next step on progressbar using the index of next_fs
+					$("#progressbar li").eq($("fieldset").index(next_fs))
+							.addClass("active");
+
+					//show the next fieldset
+					next_fs.show();
+					//hide the current fieldset with style
+					current_fs.animate({
+						opacity : 0
+					}, {
+						step : function(now, mx) {
+							//as the opacity of current_fs reduces to 0 - stored in "now"
+							//1. scale current_fs down to 80%
+							scale = 1 - (1 - now) * 0.2;
+							//2. bring next_fs from the right(50%)
+							left = (now * 50) + "%";
+							//3. increase opacity of next_fs to 1 as it moves in
+							opacity = 1 - now;
+							current_fs.css({
+								'transform' : 'scale(' + scale + ')',
+								'position' : 'absolute'
+							});
+							next_fs.css({
+								'left' : left,
+								'opacity' : opacity
+							});
+						},
+						duration : 800,
+						complete : function() {
+							current_fs.hide();
+							animating = false;
+						},
+						//this comes from the custom easing plugin
+						easing : 'easeInOutBack'
+					});
+				});
+
+		$(".previous").click(
+				function() {
+					if (animating)
+						return false;
+					animating = true;
+
+					current_fs = $(this).parent();
+					previous_fs = $(this).parent().prev();
+
+					//de-activate current step on progressbar
+					$("#progressbar li").eq($("fieldset").index(current_fs))
+							.removeClass("active");
+
+					//show the previous fieldset
+					previous_fs.show();
+					//hide the current fieldset with style
+					current_fs.animate({
+						opacity : 0
+					}, {
+						step : function(now, mx) {
+							//as the opacity of current_fs reduces to 0 - stored in "now"
+							//1. scale previous_fs from 80% to 100%
+							scale = 0.8 + (1 - now) * 0.2;
+							//2. take current_fs to the right(50%) - from 0%
+							left = ((1 - now) * 50) + "%";
+							//3. increase opacity of previous_fs to 1 as it moves in
+							opacity = 1 - now;
+							current_fs.css({
+								'left' : left
+							});
+							previous_fs.css({
+								'transform' : 'scale(' + scale + ')',
+								'opacity' : opacity
+							});
+						},
+						duration : 800,
+						complete : function() {
+							current_fs.hide();
+							animating = false;
+						},
+						//this comes from the custom easing plugin
+						easing : 'easeInOutBack'
+					});
+				});
+
+		$(".submit").click(function() {
+			return false;
+		})
+
+		var myDropzone = new Dropzone("div#dropzone", {
+			url : ""
+		});
+		
+
+	</script>
+	 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#datepicker" ).datepicker({
+      changeMonth: true,
+      changeYear: true
+    });
+  } );
+  </script>
+  <script>
+  function show_result(){
+	  $.ajax({
+			url : 'parserservlet',
+			success : function(result) {
+				$('#parse').html(result);
+			}
+
+		});
+  }
+  </script>
+</body>
+</html>
