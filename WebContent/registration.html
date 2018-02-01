@@ -11,7 +11,7 @@
 
 <link href="css/custom.css" rel="stylesheet" type="text/css" />
 <link href="css/bootstrap-toggle.css" rel="stylesheet" type="text/css">
-
+<link href="css/dropzone.css" rel="stylesheet" >
 <link rel="stylesheet"
 	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <body
@@ -62,13 +62,9 @@
 					<h2 class="fs-title">Upload Résumé</h2>
 					<h3 class="fs-subtitle">Please upload your résumé.</h3>
 
-					<div id="dropzone"
+					<div class="dropzone"
 						style="min-height: 150px; cursor: pointer; border: 2px dashed #0087F7; background: #eee; border-radius: 40px; background: white;">
-						<div style="margin-top: 50px; font-family: inherit;">
-							Drop files here or click to upload.<br /> <span
-								style="font-weight: bold;">(This is just a demo. Selected
-								files are actually uploaded.) </span>
-						</div>
+						
 					</div>
 					<input type="button" name="next" class="next action-button"
 						value="Next" />
@@ -709,8 +705,9 @@
 			return false;
 		})
 
-		var myDropzone = new Dropzone("div#dropzone", {
-			url : ""
+		var myDropzone = new Dropzone(".dropzone", {
+			url : "upload_resume",
+			acceptedFiles : ".doc,.pdf,.json"
 		});
 	</script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
