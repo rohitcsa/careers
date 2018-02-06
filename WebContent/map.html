@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style>
+.container {
+	width: 100%;
+	overflow: hidden;
+	min-width: 700px;
+	max-width: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.mapael .map {
+	background-color: #23b1ec;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.mapael .mapTooltip {
+	position: absolute;
+	background-color: #000;
+	moz-opacity: 0.70;
+	opacity: 1;
+	filter: alpha(opacity = 70);
+	padding: 10px;
+	z-index: 1000;
+	max-width: 200px;
+	display: none;
+	color: #f4f4e8;
+}
+
+.mapael .myLegend {
+	width: 400px;
+	border: 1px solid #bebeb4;
+	background-color: #f4f4e8;
+	width: 600px;
+	padding: 10px;
+}
+
+.mapael .zoomButton {
+	background-color: #fff;
+	border: 1px solid #ccc;
+	color: #000;
+	width: 15px;
+	height: 15px;
+	line-height: 15px;
+	text-align: center;
+	border-radius: 3px;
+	cursor: pointer;
+	position: absolute;
+	top: 0;
+	font-weight: bold;
+	left: 10px;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+
+/* Reset Zoom button first */
+.mapael .zoomReset {
+	top: 10px;
+}
+
+/* Then Zoom In button */
+.mapael .zoomIn {
+	top: 30px;
+}
+
+/* Then Zoom Out button */
+.mapael .zoomOut {
+	top: 50px;
+}
+</style>
+</head>
+<body>
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"
+		charset="utf-8"></script>
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"
+		charset="utf-8"></script>
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"
+		charset="utf-8"></script>
+	<script src="js/jquery.mapael.js" charset="utf-8"></script>
+	<script
+		src="https://rawgit.com/aterrien/jQuery-Knob/master/dist/jquery.knob.min.js"
+		charset="utf-8"></script>
+	<script src="js/world_countries.js" charset="utf-8"></script>
+	<div class="container">
+		<div class="map"></div>
+	</div>
+
+	<script type="text/javascript">
+		$(function() {
+			$(".container")
+					.mapael(
+							{
+								map : {
+									name : "world_countries"
+
+									// Enable zoom on the map
+									,
+									zoom : {
+										enabled : true,
+										maxLevel : 10
+									}
+									// Set default plots and areas style
+									,
+									defaultPlot : {
+										attrs : {
+											fill : "#004a9b",
+											opacity : 2
+										},
+										attrsHover : {
+											opacity : 5,
+											stroke : "#ffffff",
+											"stroke-width" : 2
+										},
+										text : {
+											attrs : {
+												fill : "#505444"
+											},
+											attrsHover : {
+												fill : "#000",
+												stroke : "#ffffff",
+												"stroke-width" : 2
+											}
+										}
+									},
+									defaultArea : {
+										attrs : {
+											fill : "#e2e2e2",
+											stroke : "#5bbfe8"
+										},
+										attrsHover : {
+											fill : "#05425b",
+											stroke : "#ffffff",
+											"stroke-width" : 2
+										},
+										text : {
+											attrs : {
+												fill : "#505444"
+											},
+											attrsHover : {
+												fill : "#000",
+												stroke : "#ffffff",
+												"stroke-width" : 2
+											}
+										}
+									},
+									afterInit : function($self, paper, areas,
+											plots, options) {
+
+										paper.rect(190, 130, 0.2, 170).attr({
+											stroke : "#fff",
+											"stroke-width" : 1
+										});
+										var t = paper.text(190, 310, "USA",
+												paper.getFont("inherit", 500),
+												30);
+										t.attr({
+											fill : "#fff"
+										});
+										paper.rect(160, 70, 0.2, 170).attr({
+											stroke : "#fff",
+											"stroke-width" : 1
+										});
+										var t1 = paper.text(160, 250, "Canada",
+												paper.getFont("inherit", 500),
+												30);
+										t1.attr({
+											fill : "#fff"
+										});
+										paper.rect(690, 160, 0.2, 170).attr({
+											stroke : "#fff",
+											"stroke-width" : 1
+										});
+										var t2 = paper.text(690, 340, "India",
+												paper.getFont("inherit", 500),
+												30);
+										t2.attr({
+											fill : "#fff"
+										});
+									},
+								},
+								// Customize some areas of the map
+								areas : {
+									"IN" : {
+										eventHandlers : {
+											click : function() {
+												alert("hello");
+											},
+										},
+										attrs : {
+											fill : "#06425b"
+										},
+										attrsHover : {
+											fill : "#000000"
+										},
+
+									},
+									"CA" : {
+										eventHandlers : {
+											click : function() {
+												alert("hello");
+											},
+										},
+
+										attrs : {
+											fill : "#06425b"
+										},
+										attrsHover : {
+											fill : "#000000"
+										}
+									},
+									"US" : {
+
+										eventHandlers : {
+											click : function() {
+												alert("hello");
+											},
+										},
+										attrs : {
+											fill : "#06425b"
+										},
+										attrsHover : {
+											fill : "#000000"
+										}
+									}
+								},
+
+								// Add some plots on the map
+								plots : {
+									// Image plot
+									// Plot positioned by x and y instead of latitude, longitude
+
+									'Chittorgarh' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 24.8887,
+										longitude : 74.6269,
+
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Chittorgarh</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'Bharuch' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 21.7051,
+										longitude : 72.9959,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Bharuch</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'Ambarnath' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 19.1825,
+										longitude : 73.1926,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Ambarnath</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'banglore' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 12.9716,
+										longitude : 77.5946,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Banglore</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+
+									'noida' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 28.5355,
+										longitude : 77.3910,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Noida</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'Nira' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 18.1022,
+										longitude : 74.2119,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Nira</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'Mumbai' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 19.0760,
+										longitude : 72.8777,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Mumbai</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'Sahibabad' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 28.6654,
+										longitude : 77.3493,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Sahibabad</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'Roorkee' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 29.8543,
+										longitude : 77.8880,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Roorkee</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'Spokane' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 47.658779,
+										longitude : -117.426048,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Spokane</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'Georgia' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 33.247875,
+										longitude : -83.441162,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Georgia</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.2"
+										}
+									},
+									'Pennsylvania' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 41.203323,
+										longitude : -77.194527,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Pennsylvania</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'Salisbury' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 38.3607,
+										longitude : -75.5994,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Salisbury</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'Yardley' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 40.245664,
+										longitude : -74.8459472,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Yardley</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+									'Montreal' : {
+										type : "image",
+										url : "http://www.neveldo.fr/mapael/assets/img/marker.png",
+										width : 10,
+										height : 30,
+										latitude : 45.5016889,
+										longitude : -73.5672559999999999,
+										attrs : {
+											opacity : 1
+										},
+										tooltip : {
+											content : "<span style=\"font-weight:bold;\">Montreal</span><br />"
+										},
+										attrsHover : {
+											transform : "s1.5"
+										}
+									},
+
+								}
+							});
+
+		});
+	</script>
+
+	<script>
+		
+	</script>
+</body>
+</html>

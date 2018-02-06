@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Jubilant Careers</title>
+<style>
+.req{
+      color:red;
+      text-align: left;
+       float: left;
+}
+</style>
+</head>
+
+<link
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+	rel="stylesheet" type="text/css" />
+
+<link href="css/custom.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap-toggle.css" rel="stylesheet" type="text/css">
+<link href="css/dropzone.css" rel="stylesheet" >
+<link href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.css" rel="stylesheet" >
+<link rel="stylesheet"
+	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<body
+	style="width: 100%; background-image: url(images/back.jpg); background-repeat: no-repeat; background-size: cover;">
+	<!-- 
+	<div class="row"
+		style="width: 100%; background: #ffffff; position: fixed; top: 0; margin-right: 0; margin-left: 0;">
+		<div class="col-md-12">
+			<img src="images/jubl_logo.png"
+				style="margin-top: 10px; margin-bottom: 10px;" height="60px">
+
+		</div>
+	</div> -->
+	<div class="row" style="margin-right: 0; margin-left: 0;">
+		<div class="col-md-12">
+			<form id="msform">
+				<!-- progressbar -->
+				<ul id="progressbar">
+					<li class="active li1">Create Account</li>
+					<li class="li2">Upload Attachments</li>
+					<li class="li3">Biographical Details</li>
+					<li class="li4">Educational Details</li>
+					<li class="li5">Prior Work Experience Details</li>
+					<li class="li6">References</li>
+				</ul>
+				<!-- fieldsets -->
+				<fieldset>
+
+					<h2 class="fs-title">Create Account</h2>
+					<h3 class="fs-subtitle">Please enter your basic details for
+						account creation.</h3>
+
+					<div class="col-md-12">
+						<div class="col-md-offset-4 col-md-4">
+							<input type="email" name="emailid" placeholder="Email ID" />
+						</div>
+						<br> <br> <br>
+						<div class="col-md-offset-4 col-md-4">
+							<input type="password" name="possword" placeholder="Password" />
+						</div>
+					</div>
+
+					<input type="button" name="next" class="next action-button"
+						value="Next" />
+
+				</fieldset>
+				<fieldset>
+					<h2 class="fs-title">Upload Résumé</h2>
+					<h3 class="fs-subtitle">Please upload your résumé.</h3>
+
+					<div class="dropzone"
+						style="min-height: 150px; cursor: pointer; border: 2px dashed #0087F7; background: #eee; border-radius: 40px; background: white;">
+						
+					</div>
+					<input type="button" name="next" class="next action-button"
+						value="Next" />
+				</fieldset>
+				<fieldset style="height: 400px; overflow: auto">
+					<h2 class="fs-title">Create Account</h2>
+					<h3 class="fs-subtitle">Please enter your basic details for
+						account creation.</h3>
+					<div class=row>
+						<div class="col-md-2">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Mr./Mrs.</label>
+							<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Mr.</option>
+								<option>Mrs.</option></select>
+						</div>
+						<div class="col-md-4">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">First Name</label>
+							<input type="text" name="fname" placeholder="First Name" />
+						</div>
+						
+						<div class="col-md-4">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Last Name</label>
+							<input type="text" name="" placeholder="Last Name" />
+						</div>
+					</div><br/>
+					<div class="row">
+					<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Current Address</label>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<input type="text" name="" placeholder="Address Line 1" />
+						</div>
+						<div class="col-md-6">
+							<input type="text" name="" placeholder="Address Line 2" />
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<input type="text" name="" placeholder="Address Line 3" />
+						</div>
+						<div class="col-md-6">
+							<input type="text" name="" placeholder="Address Line 4" />
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Country</label>
+							<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Country</option>
+								<option>option1</option>
+								<option>option1</option></select>
+						</div>
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">State</label>
+							<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>State</option>
+								<option>option1</option>
+								<option>option1</option></select>
+						</div>
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">City</label>
+							<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>City</option>
+								<option>option1</option>
+								<option>option1</option></select>
+						</div>
+					</div><br/>
+					<br>
+					<div class="row">
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Postal/ Zip code</label>
+							<input type="text" name="" placeholder="Postal/ Zip code" />
+						</div>
+					</div><br/>
+					
+					<div class="row">
+						<div class="col-md-3">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Mobile</label>
+							<input type="number" name="fname" placeholder="Mobile" />
+						</div>
+						<div class="col-md-3">
+						<label for="" style="text-align: left; float: left">Alternate Contact No.</label>
+							<input type="number" name="mname"
+								placeholder="Alternate Contact No." />
+						</div>
+						<div class="col-md-6">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Email</label>
+							<input type="email" name="" placeholder="Email" />
+						</div>
+					</div><br/>
+					<div class="row">
+						<div class="col-md-4">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Total Work Experience</label>
+						<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Total Work Experience</option>
+								<option>Option 1</option>
+								<option>Option 2</option></select>
+						</div>
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Master/Post Graduation</label>
+						<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Master/Post Graduation</option>
+								<option>Option 1</option>
+								<option>Option 2</option></select>	
+						</div>
+					</div><br/>
+					<div class="row">
+						<div class="col-md-4">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Bachelors/Graduation</label>
+						<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Bachelors/Graduation</option>
+								<option>Option 1</option>
+								<option>Option 2</option></select>	
+						</div>
+						<div class="col-md-4">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Current Industry</label>
+						<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Current Industry</option>
+								<option>Option 1</option>
+								<option>Option 2</option></select>	
+						</div>
+						<div class="col-md-4">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Functional Area</label>
+						<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Functional Area</option>
+								<option>Option 1</option>
+								<option>Option 2</option></select>	
+						</div>
+					</div><br/>
+
+					<input type="button" name="previous"
+						class="previous action-button-previous" value="Previous" /> <input
+						type="button" name="next" class="next action-button" value="Next" />
+
+				</fieldset>
+				<fieldset style="height: 400px; overflow: auto">
+					<h2 class="fs-title">Educational Details</h2>
+					<h3 class="fs-subtitle">Fill you educational details.</h3>
+					<div class="row">
+						<div class='col-md-6'><label for="" style="text-align: left; float: left">Institute/College</label>
+							<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Institute/College
+								</option>
+								<option>Option1</option>
+								<option>Option2</option></select>
+						</div>
+
+						
+					</div>
+					<br/>
+					
+					<div class="row">
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Country</label>
+							<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Country</option>
+								<option>option1</option>
+								<option>option2</option></select>
+
+						</div>
+
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">City</label>
+							<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>City</option>
+								<option>option1</option>
+								<option>option1</option></select>
+						</div>
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Course Type</label>
+							<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Course
+									Type</option>
+								<option>option1</option>
+								<option>option1</option></select>
+						</div>
+					</div>
+					<br/>
+					<div class="row">
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Degree/Qualification</label>
+							<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Degree</option>
+								<option>option1</option>
+								<option>option2</option></select>
+
+						</div>
+</div><br/>
+					<input type="button" name="previous"
+						class="previous action-button-previous" value="Previous" /> <input
+						type="button" name="next" class="next action-button" value="Next" />
+				</fieldset>
+				<fieldset id="try" style="height: 400px; overflow: auto">
+					<h2 class="fs-title">Prior Work Experience Details</h2>
+					<h3 class="fs-subtitle">Fill your prior work experience
+						details in reverse order.</h3>
+					<div class="row">
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Organization</label>
+							<input type="text" name="" placeholder="Orgnisation" />
+						</div>
+
+						<div class="col-md-8">
+						<label for="" style="text-align: left; float: left">Job title @ time of leaving organisation</label>
+							<input type="text" name=""
+								placeholder="Job title @ time of leaving organisation" />
+						</div>
+
+					</div><br/>
+					<div class="row">
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Start Date</label>
+							<input id="datepicker" placeholder="Start Date"
+								style="width: 100%" />
+						</div>
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">End Date</label>
+							<input id="datepicker" placeholder="End Date" style="width: 100%" />
+						</div>
+					</div><br/>
+					<div class="row">
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Country</label>
+							<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Country</option>
+								<option>option1</option>
+								<option>option2</option></select>
+
+						</div>
+
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">City</label>
+							<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>City</option>
+								<option>option1</option>
+								<option>option1</option></select>
+						</div>
+
+					</div>
+					<br/>
+					
+					<input type="button" name="previous"
+						class="previous action-button-previous" value="Previous" /> <input
+						type="button" name="next" class="next action-button" value="Next" />
+				</fieldset>
+				<fieldset style="height: 400px; overflow: auto">
+					<h2 class="fs-title">References</h2>
+					<h3 class="fs-subtitle">Please fill references and other
+						details.</h3>
+					
+					<div class="row">
+						<div class="form-group">
+							<div class="col-sm-4">
+								<label for="" style="text-align: left; float: left">Has
+									there been any gap in your employment</label>
+							</div>
+							<div class="col-sm-2">
+<input type="checkbox" checked data-toggle="toggle"id="toggle-one" data-on="Yes" data-off="No">	
+								
+
+							</div>
+							<div class="col-sm-4">
+								<label for="" style="text-align: left; float: left">Has
+									your application ever rejected by jubilant</label>
+							</div>
+							<div class="col-sm-2">
+							<input type="checkbox" checked data-toggle="toggle"id="toggle-one" data-on="Yes" data-off="No">	
+							</div>
+						</div>
+					</div><br/>
+					<div class="row">
+						<div class="form-group">
+							<div class="col-sm-6">
+								<textarea rows=15 cols=50 placeholder="Please specify"></textarea>
+							</div>
+							<div class="col-sm-6">
+								<textarea rows=5 placeholder="Please specify"></textarea>
+							</div>
+						</div>
+					</div><br/>
+					<div class="row">
+						<div class="form-group">
+							<div class="col-sm-3">
+								<label for="" style="text-align: left; float: left">Are
+									you willing to relocate</label>
+							</div>
+							<div class="col-sm-2">
+							<input type="checkbox" checked data-toggle="toggle"id="toggle-one" data-on="Yes" data-off="No">	
+							</div>
+						</div>
+					</div><br/>
+					
+					<div class="row">
+						<div class="form-group">
+							<div class="col-sm-9">
+								<label for="" style="text-align: left; float: left">Describe your professional background in one line</label>
+							
+							<input type="text" placeholder="Describe your professional background in one line">	</div>
+						</div>
+					</div><br/>
+					<input type="button" name="previous"
+						class="previous action-button-previous" value="Previous" /> <input
+									type="submit" name="submit" class="submit action-button"
+						value="Submit" />
+				</fieldset>
+			</form>
+		</div>
+	</div>
+	<div class="row"
+		style="width: 100%; background: #ffffff9e; position: fixed; bottom: 0; margin-right: 0; margin-left: 0;">
+		<div class="col-md-12" style="" align="center">
+			<button
+				style="width: 140px; background: #31708f; font-weight: bold; color: white; border: 0 none; border-radius: 25px; cursor: pointer; padding: 10px 5px; margin-top: 12px; margin-bottom: 12px; margin-right: 20px;">
+				<i class="fa fa-save"></i>&nbsp;&nbsp;Save As Draft
+			</button>
+			<button
+				style="width: 140px; background: #31708f9c; font-weight: bold; color: white; border: 0 none; border-radius: 25px; cursor: pointer; padding: 10px 5px; margin-top: 12px; margin-bottom: 12px;">
+				<i class="fa fa-sign-out"></i>&nbsp;&nbsp;Quit
+			</button>
+		</div>
+	</div>
+
+	<script
+		src="js/jquery.min.js"></script>
+
+	<script
+		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+	<script src="js/dropzone.js"></script>
+	<script src="js/jquery.floatinglabel.js"></script>
+	<script src="js/kendo.all.min.js"></script>
+	<script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+	<script>
+		//jQuery time
+
+		var current_fs, next_fs, previous_fs; //fieldsets
+		var left, opacity, scale; //fieldset properties which we will animate
+		var animating; //flag to prevent quick multi-click glitches
+
+		//$.backstretch("images/back.jpg");
+
+		$(".next").click(
+				function() {
+					if (animating)
+						return false;
+					animating = true;
+
+					current_fs = $(this).parent();
+					next_fs = $(this).parent().next();
+
+					//activate next step on progressbar using the index of next_fs
+					$("#progressbar li").eq($("fieldset").index(next_fs))
+							.addClass("active");
+
+					//show the next fieldset
+					next_fs.show();
+					//hide the current fieldset with style
+					current_fs.animate({
+						opacity : 0
+					}, {
+						step : function(now, mx) {
+							//as the opacity of current_fs reduces to 0 - stored in "now"
+							//1. scale current_fs down to 80%
+							scale = 1 - (1 - now) * 0.2;
+							//2. bring next_fs from the right(50%)
+							left = (now * 50) + "%";
+							//3. increase opacity of next_fs to 1 as it moves in
+							opacity = 1 - now;
+							current_fs.css({
+								'transform' : 'scale(' + scale + ')',
+								'position' : 'absolute'
+							});
+							next_fs.css({
+								'left' : left,
+								'opacity' : opacity
+							});
+						},
+						duration : 800,
+						complete : function() {
+							current_fs.hide();
+							animating = false;
+						},
+						//this comes from the custom easing plugin
+						easing : 'easeInOutBack'
+					});
+				});
+
+		$(".previous").click(
+				function() {
+					if (animating)
+						return false;
+					animating = true;
+
+					current_fs = $(this).parent();
+					previous_fs = $(this).parent().prev();
+
+					//de-activate current step on progressbar
+					$("#progressbar li").eq($("fieldset").index(current_fs))
+							.removeClass("active");
+
+					//show the previous fieldset
+					previous_fs.show();
+					//hide the current fieldset with style
+					current_fs.animate({
+						opacity : 0
+					}, {
+						step : function(now, mx) {
+							//as the opacity of current_fs reduces to 0 - stored in "now"
+							//1. scale previous_fs from 80% to 100%
+							scale = 0.8 + (1 - now) * 0.2;
+							//2. take current_fs to the right(50%) - from 0%
+							left = ((1 - now) * 50) + "%";
+							//3. increase opacity of previous_fs to 1 as it moves in
+							opacity = 1 - now;
+							current_fs.css({
+								'left' : left
+							});
+							previous_fs.css({
+								'transform' : 'scale(' + scale + ')',
+								'opacity' : opacity
+							});
+						},
+						duration : 800,
+						complete : function() {
+							current_fs.hide();
+							animating = false;
+						},
+						//this comes from the custom easing plugin
+						easing : 'easeInOutBack'
+					});
+				});
+
+		$(".submit").click(function() {
+			return false;
+		})
+
+		var myDropzone = new Dropzone(".dropzone", {
+			url : "upload_resume",
+			acceptedFiles : ".doc,.pdf,.json",
+			maxFiles : "1",
+			uploadMultiple : false,
+		
+		});
+		myDropzone.on("addedfile", function(file) {
+			  file.previewElement.addEventListener("click", function() {
+				  swal({
+						title : "Remove Upload file",
+						type : "success",
+						showCancelButton : true,
+						closeOnConfirm : true,
+						confirmButtonText : "Yes, Remove",
+						confirmButtonColor : "#ec6c62",
+					},function() {
+						
+			    myDropzone.removeFile(file);
+					});
+			  });
+			});
+	</script>
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	<script>
+		$(function() {
+			$("#datepicker").datepicker({
+				changeMonth : true,
+				changeYear : true,
+				
+			});
+		});
+	</script>
+	
+	<script src="js/bootstrap-toggle.js"></script>
+
+</body>
+</html>

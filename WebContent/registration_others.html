@@ -3,6 +3,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Jubilant Careers</title>
+<style>
+.req{
+      color:red;
+      text-align: left;
+       float: left;
+}
+</style>
 </head>
 
 <link
@@ -12,6 +19,7 @@
 <link href="css/custom.css" rel="stylesheet" type="text/css" />
 <link href="css/bootstrap-toggle.css" rel="stylesheet" type="text/css">
 <link href="css/dropzone.css" rel="stylesheet" >
+<link href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.css" rel="stylesheet" >
 <link rel="stylesheet"
 	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <body
@@ -75,21 +83,18 @@
 						account creation.</h3>
 					<div class=row>
 						<div class="col-md-2">
-						<label for="" style="text-align: left; float: left">Mr./Mrs.</label>
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Mr./Mrs.</label>
 							<select class="form-control"
 								style="height: 40px; font-size: 13px;"><option>Mr.</option>
 								<option>Mrs.</option></select>
 						</div>
-						<div class="col-md-2">
-						<label for="" style="text-align: left; float: left">First Name</label>
+						<div class="col-md-4">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">First Name</label>
 							<input type="text" name="fname" placeholder="First Name" />
 						</div>
+						
 						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Middle Name</label>
-							<input type="text" name="mname" placeholder="Middle Name" />
-						</div>
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Last Name</label>
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Last Name</label>
 							<input type="text" name="" placeholder="Last Name" />
 						</div>
 					</div><br/>
@@ -101,80 +106,12 @@
 								<option>Male</option>
 								<option>Female</option></select>
 						</div>
-						<div class="col-md-8">
-						<label for="" style="text-align: left; float: left">Date Of Birth</label>
-							<input id="datepicker" placeholder="Date of Birth"
-								style="width: 100%" />
-						</div>
+						
 					</div><br/>
-					<div class=row>
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Birth Country</label>
-							<select class="form-control"
-								style="height: 40px; font-size: 13px;"><option>Birth
-									Country</option>
-								<option>Option1</option>
-								<option>Option2</option></select>
-						</div>
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Birth State</label>
-							<select class="form-control"
-								style="height: 40px; font-size: 13px;"><option>Birth
-									State</option>
-								<option>Option1</option>
-								<option>Option2</option></select>
-						</div>
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Birth Location</label>
-							<select class="form-control"
-								style="height: 40px; font-size: 13px;"><option>Birth
-									location</option>
-								<option>Option1</option>
-								<option>Option2</option></select>
-						</div>
-					</div>
-					<br/>
-					<div class="row">
-						<div class="col-md-8">
-						<label for="" style="text-align: left; float: left">Father/Spouse/Guardian's Name</label>
-							<input type="text" name=""
-								placeholder="Father/Spouse/Guardian's Name" />
-						</div>
-					</div><br/>
-					<div class="row">
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Ethnicity</label>
-							<select class="form-control"
-								style="height: 40px; font-size: 13px;"><option>Ethnicity</option>
-								<option>option1</option>
-								<option>option2</option></select>
-
-						</div>
-
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Veteran Status</label>
-							<select class="form-control"
-								style="height: 40px; font-size: 13px;"><option>Veteran
-									Status</option>
-								<option>option1</option>
-								<option>option1</option></select>
-						</div>
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Disability Status</label>
-							<select class="form-control"
-								style="height: 40px; font-size: 13px;"><option>Disability
-									Status</option>
-								<option>option1</option>
-								<option>option1</option></select>
-						</div>
-					</div><br/>
-					<h2 class="fs-title">Communicational Details.</h2>
-					<div class=row>
-					<h3 class="fs-subtitle">
 					
-						<b>Current Address</b>
-					</h3>
-</div>
+					<div class="row">
+					<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Current Address</label>
+					</div>
 					<div class="row">
 						<div class="col-md-6">
 							<input type="text" name="" placeholder="Address Line 1" />
@@ -221,74 +158,10 @@
 							<input type="text" name="" placeholder="Postal/ Zip code" />
 						</div>
 					</div><br/>
-					<h3 class="fs-subtitle">
-						<b>Permanent Address</b>
-					</h3>
-
-					<div class="row">
-						<div class="col-md-6">
-							<input type="text" name="" placeholder="Address Line 1" />
-						</div>
-						<div class="col-md-6">
-							<input type="text" name="" placeholder="Address Line 2" />
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-6">
-							<input type="text" name="" placeholder="Address Line 3" />
-						</div>
-						<div class="col-md-6">
-							<input type="text" name="" placeholder="Address Line 4" />
-						</div>
-					</div><br/>
-					<div class="row">
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Country</label>
-							<select class="form-control"
-								style="height: 40px; font-size: 13px;"><option>Country</option>
-								<option>option1</option>
-								<option>option1</option></select>
-						</div>
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">State</label>
-							<select class="form-control"
-								style="height: 40px; font-size: 13px;"><option>State</option>
-								<option>option1</option>
-								<option>option1</option></select>
-						</div>
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">City</label>
-							<select class="form-control"
-								style="height: 40px; font-size: 13px;"><option>City</option>
-								<option>option1</option>
-								<option>option1</option></select>
-						</div>
-					</div><br/>
-					<br>
-					<div class="row">
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Postal/Zip code</label>
-							<input type="text" name="" placeholder="Postal/ Zip code" />
-						</div>
-					</div><br/>
-					<hr>
-					<div class="row">
-						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Preferred
-									address for communication</label>
-						</div>
-						<div class="col-md-4">
-							<select class="form-control"
-								style="height: 40px; font-size: 13px;"><option>Preferred
-									address for communication</option>
-								<option>Current Address</option>
-								<option>Permanent Address</option></select>
-						</div>
-					</div>
-					<hr>
+					
 					<div class="row">
 						<div class="col-md-3">
-						<label for="" style="text-align: left; float: left">Mobile</label>
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Mobile</label>
 							<input type="number" name="fname" placeholder="Mobile" />
 						</div>
 						<div class="col-md-3">
@@ -297,10 +170,49 @@
 								placeholder="Alternate Contact No." />
 						</div>
 						<div class="col-md-6">
-						<label for="" style="text-align: left; float: left">Email</label>
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Email</label>
 							<input type="email" name="" placeholder="Email" />
 						</div>
-					</div>
+					</div><br/>
+					<div class="row">
+						<div class="col-md-4">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Total Work Experience</label>
+						<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Total Work Experience</option>
+								<option>Option 1</option>
+								<option>Option 2</option></select>
+						</div>
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Master/Post Graduation</label>
+						<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Master/Post Graduation</option>
+								<option>Option 1</option>
+								<option>Option 2</option></select>	
+						</div>
+					</div><br/>
+					<div class="row">
+						<div class="col-md-4">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Bachelors/Graduation</label>
+						<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Bachelors/Graduation</option>
+								<option>Option 1</option>
+								<option>Option 2</option></select>	
+						</div>
+						<div class="col-md-4">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Current Industry</label>
+						<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Current Industry</option>
+								<option>Option 1</option>
+								<option>Option 2</option></select>	
+						</div>
+						<div class="col-md-4">
+						<span class="req">*&nbsp;&nbsp;</span><label for="" style="text-align: left; float: left">Functional Area</label>
+						<select class="form-control"
+								style="height: 40px; font-size: 13px;"><option>Functional Area</option>
+								<option>Option 1</option>
+								<option>Option 2</option></select>	
+						</div>
+					</div><br/>
 
 					<input type="button" name="previous"
 						class="previous action-button-previous" value="Previous" /> <input
@@ -323,17 +235,17 @@
 					</div>
 					<br/>
 					<div class="row">
-						<div class='col-md-4'>
-						<label for="" style="text-align: left; float: left">Start Date</label>
-							<input id="datepicker" placeholder="Start Date"
+					<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Start Month and Year</label>
+							<input id="datepicker" placeholder="Start Month and Year"
 								style="width: 100%" />
 						</div>
-						<div class='col-md-4'>
-						<label for="" style="text-align: left; float: left">Date of Passing</label>
-							<input id="datepicker" placeholder="Date of Passing"
+						<div class="col-md-4">
+						<label for="" style="text-align: left; float: left">Passing Month and Year</label>
+							<input id="datepicker" placeholder="Passing Month and Year"
 								style="width: 100%" />
 						</div>
-					</div><br/>
+					</div>
 					<div class="row">
 						<div class="col-md-4">
 						<label for="" style="text-align: left; float: left">Country</label>
@@ -352,7 +264,7 @@
 								<option>option1</option></select>
 						</div>
 						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Course</label>
+						<label for="" style="text-align: left; float: left">Course Type</label>
 							<select class="form-control"
 								style="height: 40px; font-size: 13px;"><option>Course
 									Type</option>
@@ -363,7 +275,7 @@
 					<br/>
 					<div class="row">
 						<div class="col-md-4">
-						<label for="" style="text-align: left; float: left">Degree</label>
+						<label for="" style="text-align: left; float: left">Degree/Qualification</label>
 							<select class="form-control"
 								style="height: 40px; font-size: 13px;"><option>Degree</option>
 								<option>option1</option>
@@ -395,25 +307,25 @@
 					<div class="row">
 						<div class="col-md-4">
 						<label for="" style="text-align: left; float: left">Organization</label>
-							<input type="text" name="" placeholder="Orgnisation" />
+							<input type="text" name="" placeholder="Orgnization" />
 						</div>
 
 						<div class="col-md-8">
-						<label for="" style="text-align: left; float: left">Job title @ time of leaving organisation</label>
+						<label for="" style="text-align: left; float: left">Current/ Last Job title @ time of leaving organization</label>
 							<input type="text" name=""
-								placeholder="Job title @ time of leaving organisation" />
+								placeholder="Job title @ time of leaving organization" />
 						</div>
 
 					</div><br/>
 					<div class="row">
 						<div class="col-md-4">
 						<label for="" style="text-align: left; float: left">Start Date</label>
-							<input id="datepicker" placeholder="Start Date"
+							<input id="datepicker" placeholder="MM-YYYY"
 								style="width: 100%" />
 						</div>
 						<div class="col-md-4">
 						<label for="" style="text-align: left; float: left">End Date</label>
-							<input id="datepicker" placeholder="End Date" style="width: 100%" />
+							<input id="datepicker" placeholder="MM-YYYY" style="width: 100%" />
 						</div>
 					</div><br/>
 					<div class="row">
@@ -443,15 +355,13 @@
 								placeholder="Last drawn CTC/Salary" />
 						</div>
 
-						<div class="col-md-8">
+						<div class="col-md-4">
 						<label for="" style="text-align: left; float: left">Currency</label>
 							<input type="text" name="" placeholder="Currency" />
 						</div>
 
 					</div><br/>
-					<input type="button" name="Add_more" style="width: 200px"
-						class="action-button-previous" value="Add more"
-						onclick="append_form();" /> <input type="button" name="previous"
+					<input type="button" name="previous"
 						class="previous action-button-previous" value="Previous" /> <input
 						type="button" name="next" class="next action-button" value="Next" />
 				</fieldset>
@@ -459,32 +369,7 @@
 					<h2 class="fs-title">References</h2>
 					<h3 class="fs-subtitle">Please fill references and other
 						details.</h3>
-					<div class="row">
-						<div class="form-group">
-							<div class="col-sm-6">
-								<label for="ref" style="text-align: left; float: left">Please
-									provide reference of previous organization</label>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-sm-6">
-							<input type="text" name="" placeholder="Refrence 1"
-								id="ref1" />
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-sm-6">
-							<input type="text" name="" placeholder="Refrence 2"
-								id="ref1" />
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-sm-6">
-							<input type="text" name="" placeholder="Refrence 3"
-								id="ref1" />
-						</div>
-					</div><br/>
+					
 					<div class="row">
 						<div class="form-group">
 							<div class="col-sm-4">
@@ -521,51 +406,18 @@
 								<label for="" style="text-align: left; float: left">Are
 									you willing to relocate</label>
 							</div>
-							<div class="col-sm-3">
+							<div class="col-sm-2">
 							<input type="checkbox" checked data-toggle="toggle"id="toggle-one" data-on="Yes" data-off="No">	
 							</div>
 						</div>
 					</div><br/>
-
+					
 					<div class="row">
 						<div class="form-group">
-							<div class="col-sm-3">
-								<label for="" style="text-align: left; float: left">Date
-									by which you can join us</label>
-							</div>
-							<div class="col-sm-3"><input id="datepicker" placeholder=" Date" style="width: 100%" /></div>
-						</div>
-					</div><br/>
-					<div class="row">
-						<div class="form-group">
-						
-							<div class="col-sm-4">
-							<label for="" style="text-align: left; float: left">Expected Salary</label>
-								<input type="text" placeholder="Expected Salary">
-							</div>
-							<div class="col-sm-4">
-							<label for="" style="text-align: left; float: left">Currency</label>
-								<input type="text" placeholder="currency">
-							</div>
-						</div>
-					</div><br/>
-					<div class="row">
-						<div class="form-group">
-						
+							<div class="col-sm-9">
+								<label for="" style="text-align: left; float: left">Describe your professional background in one line</label>
 							
-							<div class="col-sm-2">
-							<label for="" style="text-align: left; float: left">Notice Period</label>
-								<input type="text" placeholder="Notice period">
-							</div>
-						</div>
-					</div><br/>
-					<div class="row">
-						<div class="form-group">
-							<div class="col-sm-3">
-								<label for="" style="text-align: left; float: left">Is
-									notice period negotiable</label>
-							</div>
-							<div class="col-sm-2"><input type="checkbox" checked data-toggle="toggle"id="toggle-one" data-on="Yes" data-off="No">	</div>
+							<input type="text" placeholder="Describe your professional background in one line">	</div>
 						</div>
 					</div><br/>
 					<input type="button" name="previous"
@@ -591,7 +443,7 @@
 	</div>
 
 	<script
-		src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		src="js/jquery.min.js"></script>
 
 	<script
 		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -601,6 +453,7 @@
 	<script src="js/dropzone.js"></script>
 	<script src="js/jquery.floatinglabel.js"></script>
 	<script src="js/kendo.all.min.js"></script>
+	<script type="text/javascript"src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
 	<script>
 		//jQuery time
 
@@ -708,27 +561,37 @@
 		var myDropzone = new Dropzone(".dropzone", {
 			url : "upload_resume",
 			acceptedFiles : ".doc,.pdf,.json",
-			maxFiles : "1"
+			maxFiles : "1",
+			uploadMultiple : false,
+		
 		});
+		myDropzone.on("addedfile", function(file) {
+			  file.previewElement.addEventListener("click", function() {
+				  swal({
+						title : "Remove Upload file",
+						type : "success",
+						showCancelButton : true,
+						closeOnConfirm : true,
+						confirmButtonText : "Yes, Remove",
+						confirmButtonColor : "#ec6c62",
+					},function() {
+						
+			    myDropzone.removeFile(file);
+					});
+			  });
+			});
 	</script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<script>
 		$(function() {
 			$("#datepicker").datepicker({
 				changeMonth : true,
-				changeYear : true
+				changeYear : true,
+				
 			});
 		});
 	</script>
-	<script type="text/javascript">
-		function append_form() {
-			var text1 = "<h3 class='fs-subtitle'>Fill your prior work experience details in reverse order.</h3><div class='row'><div class='col-md-4'><input type='text' name='' placeholder='Orgnisation' /></div><div class='col-md-8'><input type='text' name='' placeholder='Job title @ time of leaving organisation' /></div></div>";
-			var text2 = "<div class='row'><div class='col-md-4'><input id='datepicker'  placeholder='Start Date' style='width: 100%' /></div><div class='col-md-4'><input id='datepicker'  placeholder='End Date' style='width: 100%'' /></div></div>";
-			var text3 = "<div class='row'><div class='col-md-4'><select class='form-control' style='height: 40px; font-size: 13px;'><option>Country</option><option>option1</option><option>option2</option></select></div><div class='col-md-4'><select class='form-control'style='height: 40px; font-size: 13px;'><option>City</option><option>option1</option><option>option1</option></select></div></div><br>";
-			var text4 = "<div class='row'><div class='col-md-4'><input type='text' name='' placeholder='Last drawn CTC/Salary' /></div><div class='col-md-8'><input type='text' name='' placeholder='Currency' /></div></div>";
-			$('#try').append(text1, text2, text3, text4);
-		}
-	</script>
+	
 	<script src="js/bootstrap-toggle.js"></script>
 
 </body>
